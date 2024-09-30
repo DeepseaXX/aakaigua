@@ -197,10 +197,13 @@ defaults:
       type: posts
     values:
       layout: article
+      title: Page - Sidebar
       sharing: true
       license: true
       aside:
         toc: true
+      sidebar:
+        nav: layouts
       show_edit_on_github: true
       show_subscribe: true
       pageview: true

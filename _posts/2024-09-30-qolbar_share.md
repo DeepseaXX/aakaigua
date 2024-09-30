@@ -1,9 +1,8 @@
 ---
 title: Qol Bar 分享
 author: AA
-date: 2024-09-30
-category: Qolbar
-layout: post
+key: 2024-09-30-qolbar_share
+tags : Qolbar, Gua, Dalamud
 ---
 
 

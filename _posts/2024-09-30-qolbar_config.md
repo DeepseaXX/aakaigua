@@ -1,9 +1,14 @@
 ---
 title: Qol Bar 设置教程
 author: AA
-date: 2024-09-30
-category: Qolbar
-layout: post
+key: 2024-09-30-qolbar_config
+tags : Qolbar, Gua, Dalamud
+layout: article
+title: Page - Sidebar
+aside:
+  toc: true
+sidebar:
+  nav: layouts
 ---
 
 
