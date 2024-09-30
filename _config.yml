@@ -35,7 +35,7 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ##############################
 author:
   type      : Gua Bi
-  name      : Ana Amari/DeepseaXX
+  name      : Ana Amari / DeepseaXX
   url       : https://deepseaxx.com/
   avatar    : /assets/avatar.png # path or url of avatar image (square)
   bio       : I am Gua Bi.
@@ -197,13 +197,10 @@ defaults:
       type: posts
     values:
       layout: article
-      title: Page - Sidebar
       sharing: true
       license: true
       aside:
         toc: true
-      sidebar:
-        nav: layouts
       show_edit_on_github: true
       show_subscribe: true
       pageview: true

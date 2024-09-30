@@ -2,7 +2,7 @@
 title: Qol Bar 分享
 author: AA
 key: 2024-09-30-qolbar_share
-tags : Qolbar, Gua, Dalamud
+tags : Qolbar Gua Dalamud
 ---
 
 
