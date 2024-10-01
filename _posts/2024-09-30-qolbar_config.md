@@ -13,9 +13,10 @@ tags : Qolbar Gua Dalamud
 
 腾讯文档版：太卡放弃更新了，作为参考留下。[qolbar 自用分享](https://docs.qq.com/doc/DTUFrb3hBRVdtc3VK)
 
-Github 版：[Qol bar 分享](https://aakaigua.com/gua/2024-09-30-hunt_gua.html)
+Github 版：[Qol bar 分享](https://aakaigua.com/2024/09/30/qolbar_share.html)
 
-Github 版：[Qol bar 设置教程](https://aakaigua.com/qolbar/2024-09-30-qolbar_config.html)
+Github 版：[Qol bar 设置教程](https://aakaigua.com/2024/09/30/qolbar_config.html)
+
 
 **欢迎各位补充修改**
 

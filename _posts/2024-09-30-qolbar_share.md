@@ -14,9 +14,9 @@ language（宏能不能在国服触发！！！），我懒得改，但是欢迎
 
 腾讯文档版：[【腾讯文档】Qolbar 设置教程](https://docs.qq.com/doc/DTWN6cVVrckZDZERG)
 
-Github 版：[Qol bar 分享](https://aakaigua.com/gua/2024-09-30-hunt_gua.html)
+Github 版：[Qol bar 分享](https://aakaigua.com/2024/09/30/qolbar_share.html)
 
-Github 版：[Qol bar 设置教程](https://aakaigua.com/qolbar/2024-09-30-qolbar_config.html)
+Github 版：[Qol bar 设置教程](https://aakaigua.com/2024/09/30/qolbar_config.html)
 
 
 ## 常用设置
