@@ -9,7 +9,7 @@ tags : Qolbar Gua Dalamud
 
 **欢迎各位 Pull Request 分享自己的设置，新开一个文档也可以。**
 
-区分国服能不能用主要看 command 的字是什么 
+区分国服能不能用主要看 command 的字是什么
 language（宏能不能在国服触发！！！），我懒得改，但是欢迎提问
 
 腾讯文档版：[【腾讯文档】Qolbar 设置教程](https://docs.qq.com/doc/DTWN6cVVrckZDZERG)
@@ -85,7 +85,14 @@ H4sIAAAAAAAACu09Z28jR5Z/hdAccF/GtrJmhMMBtuGzP+yuD2sfFne3/tCS6BExVFiKGu/sYgGRHEkM
 4.0 以后改为 0.079，方法如图
 
 ![](/assets/images/Qolbar分享_2024-09-30-13-53-53.png)
+### 【AA】Vnavmesh用快捷栏
 
+配合Vnavmesh使用，自选坐骑改为自己喜欢的坐骑名。
+![](/assets/images/Qolbar分享_2024-10-01-23-13-11.png)
+
+```
+H4sIAAAAAAAACqWTQUvDMBiG/8r48BhrmrZLmpse9DIQ9OBBd6ilm8LWjrUrjDGYiA4V3Tx4mVMG3nYQPAmCP6fb+i/8pnTDOUEqIdDvfb/kSfqSBqwE9YoDEhwgcMhANmYKVgRc/AhdKyw7/hGWfg7k/rzFT1om7WHcuogeuvHwFiUbpbWyV3ODzPjmKjofRJ3XAxeN421cTxVKcOax3AE5rcDeraAhiJ5vkiXbj++fR4N2snFynkzZC53AqhadYGqVQOqMm4LhMFKjNnPrW0tBhZJVnGGErgk1a6bHRCf9HxQ/8CrziwhmUKaZ6QmfYcS9zqj/lqCis5e41Rtdtian75kva5ZZSkz89PhLOoVSfSEcIbiuMs7/A1uaD6K+x8Mp5xpPH8+k04+u7xY5f/tLKFuo4nPaA2loBKYOVbjgwlRVskoVU9NNIYwsdtoenhffVbIa8Rsgg2rNaRIIEc4UDQeF5gc4VfljqwMAAA==
+```
 ### 【AA】【国服中文】自用某些常用坐骑
 
 ![](/assets/images/Qolbar分享_2024-09-30-13-51-38.png)
