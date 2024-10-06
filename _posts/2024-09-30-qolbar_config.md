@@ -2,10 +2,8 @@
 title: Qol Bar 设置教程
 author: AA
 key: 2024-09-30-qolbar_config
-tags : Qolbar Gua Dalamud
+tags: Qolbar Gua Dalamud
 ---
-
-
 
 一个很好用的，自建快捷栏插件（外挂），支持绑定技能 id 以显示 cd、绑定键位、自定义图标、执行宏、折叠展开菜单等等。
 
@@ -17,10 +15,9 @@ Github 版：[Qol bar 分享](https://aakaigua.com/2024/09/30/qolbar_share.html)
 
 Github 版：[Qol bar 设置教程](https://aakaigua.com/2024/09/30/qolbar_config.html)
 
-
 **欢迎各位补充修改**
 
-
+欢迎前往[讨论页面](https://github.com/DeepseaXX/aakaigua/discussions)参与讨论。
 
 ## Qolbar 主界面
 
@@ -63,6 +60,8 @@ bar 管理、条件组、备份、设置、debug
 图标模糊需要选中右边第二条。设置倍率时尤为明显。（HR Icons）
 
 ![](/assets/images/Qolbar设置教程_2024-09-30-14-40-54.png)
+
+图标高清与非高清的效果。
 
 ![](/assets/images/Qolbar设置教程_2024-09-30-14-41-06.png)![](/assets/images/Qolbar设置教程_2024-09-30-14-41-09.png)
 
@@ -108,7 +107,7 @@ bar 管理、条件组、备份、设置、debug
 ![](/assets/images/Qolbar设置教程_2024-09-30-14-41-59.png)
 
 示例：
-图标 id 为 59，灰度图标，鼠标悬停时显示宠物。
+图标 id 为 59，灰度图标，鼠标悬停时显示“宠物”。
 
 ![](/assets/images/Qolbar设置教程_2024-09-30-14-42-05.png)（原图标 ![](/assets/images/Qolbar设置教程_2024-09-30-14-42-09.png)）
 
@@ -127,7 +126,7 @@ bar 管理、条件组、备份、设置、debug
 ### 指令设置
 
 分为三种类型，仅指令，目录和间隔符。如果设置为目录，既可以设置展开子菜单（推荐开启悬停时展开），单击时也可以执行指令。
-指令既支持游戏自带[文本指令]（https://ff14.huijiwiki.com/wiki/%E6%96%87%E6%9C%AC%E6%8C%87%E4%BB%A4），也支持卫月插件的指令。
+指令既支持游戏自带[文本指令](https://ff14.huijiwiki.com/wiki/%E6%96%87%E6%9C%AC%E6%8C%87%E4%BB%A4)，也支持卫月插件的指令。
 
 ![](/assets/images/Qolbar设置教程_2024-09-30-14-42-47.png)
 

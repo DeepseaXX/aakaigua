@@ -5,7 +5,6 @@ key: 2024-09-30-dalamud_main
 tags: Gua Dalamud
 ---
 
-
 ## 写在前面
 
 由于本人基本 AFK，打算开一个新坑介绍所有个人使用插
@@ -24,7 +23,7 @@ Qol bar 设置教程
 
 ### 友情（陌生人）链接：
 
-- 底线爆炸但是又不怎么爆炸的第三方库小小梦魇介绍：[卫月仓库链接整理 - 小小梦魇的博客  LittleNightmare Blog](https://blog.littlenightmare.top/2021/05/18/%E5%8D%AB%E6%9C%88%E4%BB%93%E5%BA%93%E9%93%BE%E6%8E%A5/)
+- 底线爆炸但是又不怎么爆炸的第三方库小小梦魇介绍：[卫月仓库链接整理 - 小小梦魇的博客 LittleNightmare Blog](https://blog.littlenightmare.top/2021/05/18/%E5%8D%AB%E6%9C%88%E4%BB%93%E5%BA%93%E9%93%BE%E6%8E%A5/)
 - 外挂名搜挂网[XIV Plugins](https://xivplugins.com/)
 - 介绍了很多底线爆炸挂和加载本地文件等等适合上不去 github 宝宝体质的解决方法 [-柒染凌-的个人空间\_哔哩哔哩\_bilibili](https://space.bilibili.com/32799123)
 - [日本小小梦魇](https://toramemoblog.com/category/tools)（配合机翻食用）
@@ -37,8 +36,7 @@ Qol bar 设置教程
 
 问问题带日志和截图！不要让对方猜你遇到了什么问题！大家都是成年人了来点互相照顾！未成年就别开挂了。
 
-
-### 私心安利 偷完魔改的Clear Blue卫月样式
+### 私心安利 偷完魔改的 Clear Blue 卫月样式
 
 在卫月设置，样式编辑器里导入。
 
@@ -47,6 +45,7 @@ DS1H4sIAAAAAAAACqVY3VPjNhD/Vxg/tTMMI8uyZeWNQDk6c3SYg/aufTOJSFxMnDoOxx1z/3v1sSvJs
 ```
 
 ## 问题们
+
 ### 第三方插件安装失败怎么办，我用第三方库爆炸了怎么办，我找不到某第三方插件怎么办，有没有能实现 xxx 的功能的插件？
 
 首先别去国服卫月维护团队问，去找对应的作者或者反馈频道。其次大家都是用爱发电（司马小店除外），别人给你回答是慈善，不愿意理你是正常。开挂本就逆天而行，有信息差是常态，但是先尝试自己思考自己寻找再解决。
