@@ -304,7 +304,7 @@ QoL 数量骤增！
 
 ![](/assets/images/2024-10-09-dalamud_catalogue_2024-10-09-09-25-00.png)
 
-[【9/6 追記】拡張ホットバープラグイン「QoL Bar」 | ひかもん備忘録](https://hikamonk.com/qolbar/)
+[【9/6 追記】拡張ホットバープラグイン「QoL Bar」  ひかもん備忘録](https://hikamonk.com/qolbar/)
 
 不使用游戏内置的宏栏和热键栏，可以把多个功能收容在一个菜单里。
 
