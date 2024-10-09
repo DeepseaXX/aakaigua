@@ -1,26 +1,27 @@
 ---
-title: Qol Bar 分享
+title: Qol Bar 自用分享
 author: AA
 key: 2024-09-30-qolbar_share
 tags: Qolbar Gua Dalamud
 ---
 
+## 常用设置
+
+虽然有更详细的设置教程，但是因为这个实在是太多人问了所以分一篇文字单独写样式分享。
+
 **欢迎各位 Pull Request 分享自己的设置，新开一个文档也可以。**
 
-区分国服能不能用主要看 command 的字是什么
-language（宏能不能在国服触发！！！），我懒得改，但是欢迎提问
+<!--more-->
+
+区分国服能不能用主要看 command 的字是什么语言（宏能不能在国服触发！！！），我懒得改，但是欢迎提问
 
 腾讯文档版：[【腾讯文档】Qolbar 设置教程](https://docs.qq.com/doc/DTWN6cVVrckZDZERG)
 
-Github 版：[Qol bar 分享](https://aakaigua.com/2024/09/30/qolbar_share.html)
+Github 版：[Qol bar 分享](/2024/09/30/qolbar_share.html)
 
-Github 版：[Qol bar 设置教程](https://aakaigua.com/2024/09/30/qolbar_config.html)
+Github 版：[Qol bar 设置教程](/2024/09/30/qolbar_config.html)
 
 欢迎前往[讨论页面](https://github.com/DeepseaXX/aakaigua/discussions)参与讨论。
-
-## 常用设置
-
-虽然由更详细的设置教程，但是因为这个实在是太多人问了所以单独写在这里。
 
 ### 水晶外框：
 

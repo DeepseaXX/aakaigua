@@ -9,6 +9,8 @@ tags: WaymarkPresent Waymark Gua Dalamud
 
 本文是上古时期的个人整理，以及 6.0 本人不打高难之后的云标点合集（参考国际服或者国服几个我认为是主流的攻略），会有跟当前国服主流版本脱节的情况。如果你有意见或建议，欢迎前往[讨论页面](https://github.com/DeepseaXX/aakaigua/discussions)参与讨论，或分享你的配置。
 
+<!--more-->
+
 ## 一键跳转
 
 - [P9S-P12S](#912)

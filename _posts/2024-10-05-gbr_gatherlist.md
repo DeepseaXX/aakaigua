@@ -5,6 +5,8 @@ key: 2024-10-05-gbr_gatherlist
 tags: Gua Gathering
 ---
 
+<!--more-->
+
 ## 写在前面 注意点
 
 来自神秘群友的建议：
