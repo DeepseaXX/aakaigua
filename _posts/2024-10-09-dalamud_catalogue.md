@@ -1,8 +1,8 @@
 ---
-title: 【FF14卫月】【便利插件总结】Dalamud 插件目录/Plugin Catalogue
+title: 【FF14卫月】【便利插件总结】Dalamud 插件目录
 author: AA
-key: 2024-10-06-waymark_present
-tags: WaymarkPresent Waymark Gua Dalamud
+key: 2024-10-09-dalamud_catalogue
+tags: Gua Dalamud
 ---
 
 ## 日语原文
@@ -11,7 +11,7 @@ tags: WaymarkPresent Waymark Gua Dalamud
 技能名用【】框起来等后续再修改。
 因为是歪果仁写的所以基本都是在国际服比较有名的部分
 
-[【便利プラグインまとめ】Dalamud プラグイン目録 | ひかもん備忘録](https://hikamonk.com/plugin_list/)
+[【便利プラグインまとめ】Dalamud プラグイン目録  ひかもん備忘録](https://hikamonk.com/plugin_list/)
 
 ## 注意事项
 

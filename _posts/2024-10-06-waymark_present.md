@@ -31,7 +31,7 @@ tags: WaymarkPresent Waymark Gua Dalamud
 
 本文需使用卫月中 Waymark Present 插件进行标点的存储和标记，需要请阅读
 
-[Dalamud 卫月框架 | 非著名学者手记](https://bbs.tggfl.com/topic/32/dalamud-%E5%8D%AB%E6%9C%88%E6%A1%86%E6%9E%B6)
+[Dalamud 卫月框架  非著名学者手记](https://bbs.tggfl.com/topic/32/dalamud-%E5%8D%AB%E6%9C%88%E6%A1%86%E6%9E%B6)
 善用搜索（虽然我好想没写什么通俗易懂的 tag）
 部分参考来源以及友链：
 
