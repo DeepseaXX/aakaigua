@@ -11,7 +11,7 @@ tags: Gua Dalamud
 技能名用【】框起来等后续再修改。
 因为是歪果仁写的所以基本都是在国际服比较有名的部分
 
-[【便利プラグインまとめ】Dalamud プラグイン目録  ひかもん備忘録](https://hikamonk.com/plugin_list/)
+[【便利プラグインまとめ】Dalamud プラグイン目録 ひかもん備忘録](https://hikamonk.com/plugin_list/)
 
 ## 注意事项
 
@@ -304,7 +304,7 @@ QoL 数量骤增！
 
 ![](/assets/images/2024-10-09-dalamud_catalogue_2024-10-09-09-25-00.png)
 
-[【9/6 追記】拡張ホットバープラグイン「QoL Bar」  ひかもん備忘録](https://hikamonk.com/qolbar/)
+[【9/6 追記】拡張ホットバープラグイン「QoL Bar」 ひかもん備忘録](https://hikamonk.com/qolbar/)
 
 不使用游戏内置的宏栏和热键栏，可以把多个功能收容在一个菜单里。
 
@@ -342,7 +342,7 @@ QoL 数量骤增！
 
 ### Telesto
 
-联动Triggevent 和 Triggernometry 可以实现游戏内指令的插件。
+联动 Triggevent 和 Triggernometry 可以实现游戏内指令的插件。
 
 ## 追記
 
