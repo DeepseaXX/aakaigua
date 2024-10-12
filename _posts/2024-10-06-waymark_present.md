@@ -9,6 +9,8 @@ tags: WaymarkPresent Waymark Gua Dalamud
 
 本文是上古时期的个人整理，以及 6.0 本人不打高难之后的云标点合集（参考国际服或者国服几个我认为是主流的攻略），会有跟当前国服主流版本脱节的情况。如果你有意见或建议，欢迎前往[讨论页面](https://github.com/DeepseaXX/aakaigua/discussions)参与讨论，或分享你的配置。
 
+<!--more-->
+
 ## 一键跳转
 
 - [P9S-P12S](#912)
@@ -31,8 +33,10 @@ tags: WaymarkPresent Waymark Gua Dalamud
 
 本文需使用卫月中 Waymark Present 插件进行标点的存储和标记，需要请阅读
 
-[Dalamud 卫月框架 | 非著名学者手记](https://bbs.tggfl.com/topic/32/dalamud-%E5%8D%AB%E6%9C%88%E6%A1%86%E6%9E%B6)
+[Dalamud 卫月框架 非著名学者手记](https://bbs.tggfl.com/topic/32/dalamud-%E5%8D%AB%E6%9C%88%E6%A1%86%E6%9E%B6)
+
 善用搜索（虽然我好想没写什么通俗易懂的 tag）
+
 部分参考来源以及友链：
 
 [【国人整理，三格式，截止钻石神兵】【腾讯文档】FF14 标点大全(更新钻石神兵)](https://docs.qq.com/sheet/DY0ttR2xQT1Vjc2V4)
@@ -66,6 +70,7 @@ tags: WaymarkPresent Waymark Gua Dalamud
 ### 绝龙诗
 
 我不打，我只是听说的
+
 【P1】
 
 ```
@@ -73,6 +78,7 @@ tags: WaymarkPresent Waymark Gua Dalamud
 ```
 
 来源[[攻略心得] [千年龙诗绝境战] 为什么说【13.2 米】标点是绝龙诗的标准答案 NGA 玩家社区](https://ngabbs.com/read.php?tid=31807681&_fu=61958879%2C1&rand=46)
+
 【P2356(4A1)】
 
 ```
@@ -82,7 +88,7 @@ tags: WaymarkPresent Waymark Gua Dalamud
 【P2356(1A)对应塔塔露触发器】
 
 ```
-{"Name": "P2356(1A)","MapID": 788,"A": {"X": 100.0,"Y": 0.0,"Z": 86.8,"ID": 0,"Active": true},"B": {"X": 113.2,"Y": 0.0,"Z": 100.0,"ID": 1,"Active": true},"C": {"X": 100.0,"Y": 0.0,"Z": 113.2,"ID": 2,"Active": true},"D": {"X": 86.8,"Y": 0.0,"Z": 100.0,"ID": 3,"Active": true},"One": {"X": 90.66619048833758,"Y": 0.0,"Z": 90.66619048833758,"ID": 4,"Active": true},"Two": {"X": 109.33380951166242,"Y": 0.0,"Z": 90.66619048833758,"ID": 5,"Active": true},"Three": {"X": 109.33380951166242,"Y": 0.0,"Z": 109.33380951166242,"ID": 6,"Active": true},"Four": {"X": 90.66619048833758,"Y": 0.0,"Z": 109.33380951166242,"ID": 7,"Active": true}}
+{"Name": "P2356(1A)","MapID": 788,"A": {"X": 100.0,"Y": 0.0,"Z": 86.8,"ID": 0,"Active": true},"B": {"X": 113.2,"Y": 0.0,"Z": 100.0,"ID": 1,"Active": true},"C": {"X": 100.0,"Y": 0.0,"Z": 113.2,"ID": 2,"Active": true},"D": {"X": 86.8,"Y": 0.0,"Z": 100.0,"ID": 3,"Active": true},"One": {"X": 90.66619048833758,"Y": 0.0,"Z": 90.66619048833758,"ID": 4,"Active": true},"Two": {"X": 109.33380951166242,"Y": 0.0,"Z": 90.66619048833758,"ID": 5,"Active": true},"Three": {"X": 109.333F80951166242,"Y": 0.0,"Z": 109.33380951166242,"ID": 6,"Active": true},"Four": {"X": 90.66619048833758,"Y": 0.0,"Z": 109.33380951166242,"ID": 7,"Active": true}}
 ```
 
 ## 零式
@@ -125,10 +131,10 @@ tags: WaymarkPresent Waymark Gua Dalamud
 {"Name":"beiwo-benti","MapID":801,"A":{"X":99.058,"Y":0.0,"Z":81.135,"ID":0,"Active":true},"B":{"X":119.352,"Y":0.0,"Z":99.316,"ID":1,"Active":true},"C":{"X":100.747,"Y":0.0,"Z":119.114,"ID":2,"Active":true},"D":{"X":80.574,"Y":0.0,"Z":101.415,"ID":3,"Active":true},"One":{"X":105.052,"Y":0.0,"Z":84.859,"ID":4,"Active":true},"Two":{"X":114.869,"Y":0.0,"Z":104.923,"ID":5,"Active":true},"Three":{"X":95.007,"Y":0.0,"Z":114.873,"ID":6,"Active":true},"Four":{"X":85.0,"Y":0.0,"Z":95.019,"ID":7,"Active":true}}
 ```
 
-万魔殿零式标点 github 链接带图示（国际服版本，部分不通用）
-https://github.com/Em-Six/FFXIVWaymarkPresets/wiki/Asphodelos-%28Savage%29
+[万魔殿零式标点 github 链接带图示（国际服版本，部分不通用）](https://github.com/Em-Six/FFXIVWaymarkPresets/wiki/Asphodelos-%28Savage%29)
 
 **万魔殿 P5678S**
+
 我没云攻略也没打， 也不知道国服主流打法，等确定了之后会更新，所以以下是生搬 and 机翻
 
 能[git 哈布](<https://github.com/Em-Six/FFXIVWaymarkPresets/wiki/Abyssos-(Savage)>)的自取
@@ -144,7 +150,9 @@ https://github.com/Em-Six/FFXIVWaymarkPresets/wiki/Asphodelos-%28Savage%29
 ### 【P6S 苦茶子 game8nukemaru 同款】
 
 裤衩子，我自己测量了一下大概要让标点贴边，要比精准的四等分点偏移 1.3
+
 如果有问题再改，建议进本先确认一下
+
 [【FF14】6.2 零式攻略 P6S 万魔殿炼净之狱 2 苦茶子攻略*哔哩哔哩 bilibili*最终幻想 14\_攻略](https://www.bilibili.com/video/BV1P84y1y7dp/)
 
 ```
@@ -154,6 +162,7 @@ https://github.com/Em-Six/FFXIVWaymarkPresets/wiki/Asphodelos-%28Savage%29
 ### 【P6S 近战 Uptime 千星流月夜】
 
 攻略参考
+
 [【P6S】万魔殿炼净之狱零式六层 近战无损打法攻略*最终幻想 14*游戏攻略](https://www.bilibili.com/video/BV1RG4y1u78L/)
 
 ```
@@ -163,8 +172,11 @@ https://github.com/Em-Six/FFXIVWaymarkPresets/wiki/Asphodelos-%28Savage%29
 ### 【P7S-被窝苦茶子同款-TOS 脑死亡净化】
 
 由于这一套标点在初始场地的虚空，有被内个的风险哦
+
 （game8 给的是标点没有飞出去的版本）
+
 （但其实过本之后完全可以标点的，所以纯纯纯净也能做到这样的标点）
+
 [【FF14】万魔殿零式炼净之狱（炼狱之章） 第七层 P7S 被窝国际攻略*哔哩哔哩 bilibili*最终幻想 14](https://www.bilibili.com/video/BV1D14y1A7yb/)
 
 ```
@@ -174,6 +186,7 @@ https://github.com/Em-Six/FFXIVWaymarkPresets/wiki/Asphodelos-%28Savage%29
 ### 【P8S 门神 game8 果子苦茶子同款】
 
 和 P6S 类似，所有点都相切内边
+
 [【菓子】FF14 万魔殿炼狱篇零式 4 层 P8S 超详解攻略\_网络游戏热门视频](https://www.bilibili.com/video/BV1q3411Q7jg/)
 
 ```
@@ -196,6 +209,7 @@ https://github.com/Em-Six/FFXIVWaymarkPresets/wiki/Asphodelos-%28Savage%29
 ### 【P8S 本体奶油咖啡（类似 NGA 脑死）】
 
 和 NGA 脑死思路一致，但是 1 和 4 点，奶油咖啡版应该站点中
+
 [【FF14】万魔殿零式 炼净之狱四层 P8S 本体 机制详解攻略*最终幻想 14*攻略](https://www.bilibili.com/video/BV1kN4y1w7ne/)
 
 ```
@@ -207,6 +221,7 @@ https://github.com/Em-Six/FFXIVWaymarkPresets/wiki/Asphodelos-%28Savage%29
 ### 【P8S 本体 game8 苦茶子同款】
 
 关于 1 和 2 点，不知道是不是需要很精准，总之距离八等分点向下偏移了 0.6，要改在说。
+
 [【FF14】6.2 零式攻略 P8S 本体 万魔殿炼净之狱 4 后半 苦茶子攻略\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV17d4y1v7Wx/)
 
 ```
@@ -218,7 +233,7 @@ https://github.com/Em-Six/FFXIVWaymarkPresets/wiki/Asphodelos-%28Savage%29
 
 [全职业开荒&毕业配装](https://bbs.nga.cn/read.php?tid=36391376)
 
-[极高贝扎：【【树歌】FF14 6.4 极高贝扎攻略 | 全流程配音讲解 极神 8 人本 讨伐 高贝扎歼殛战 歼极战 高贝扎-哔哩哔哩】 ](https://b23.tv/uZFwaDN)
+[极高贝扎：【【树歌】FF14 6.4 极高贝扎攻略 全流程配音讲解 极神 8 人本 讨伐 高贝扎歼殛战 歼极战 高贝扎-哔哩哔哩】 ](https://b23.tv/uZFwaDN)
 
 ####
 
@@ -314,7 +329,7 @@ nukemaru
 
 ### 极火天王 卢比坎特 树歌
 
-[【树歌】FF14 6.3 极火天王 卢比坎特歼殛战攻略 | 全流程配音讲解 极神 8 人本 讨伐*哔哩哔哩 bilibili*最终幻想 14\_攻略](https://www.bilibili.com/video/BV1Ms4y1A7ws/)
+[【树歌】FF14 6.3 极火天王 卢比坎特歼殛战攻略 全流程配音讲解 极神 8 人本 讨伐*哔哩哔哩 bilibili*最终幻想 14\_攻略](https://www.bilibili.com/video/BV1Ms4y1A7ws/)
 
 ```
 {"Name":"极火天王 卢比坎特 树歌","MapID":924,"A":{"X":100.0,"Y":0.0,"Z":86.0,"ID":0,"Active":true},"B":{"X":114.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":114.0,"ID":2,"Active":true},"D":{"X":86.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":93.0,"Y":0.0,"Z":93.0,"ID":7,"Active":true},"Two":{"X":107.0,"Y":0.0,"Z":93.0,"ID":4,"Active":true},"Three":{"X":107.0,"Y":0.0,"Z":107.0,"ID":5,"Active":true},"Four":{"X":93.0,"Y":0.0,"Z":107.0,"ID":6,"Active":true}}
@@ -364,7 +379,7 @@ nukemaru
 
 ### 异闻下水道
 
-#### [【树歌】4 人高难 异闻希拉狄哈水道打法分享 | FF14 boss 下水道 鼠鼠*最终幻想 14*攻略](https://www.bilibili.com/video/BV1qy4y1R7vk/)
+#### [【树歌】4 人高难 异闻希拉狄哈水道打法分享 FF14 boss 下水道 鼠鼠*最终幻想 14*攻略](https://www.bilibili.com/video/BV1qy4y1R7vk/)
 
 老一
 

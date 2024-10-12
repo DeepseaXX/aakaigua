@@ -18,11 +18,11 @@
 ##############################
 text_skin: forest # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: tomorrow-night # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : https://aakaigua.com/ # the base hostname & protocol for your site e.g. https://www.someone.com
+url     : https://aakaigua.com # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : / # does not include hostname
-title   : "KaiGua"
+title   : "AAKaiGua"
 description: > # this means to ignore newlines until "Language & timezone"
-  KaiGuaJiaoCheng
+  AADeKaiGuaJiaoCheng
 
 
 ## => Language and Timezone
@@ -34,7 +34,7 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ## => Author and Social
 ##############################
 author:
-  type      : Gua Bi
+  type      : Person
   name      : Ana Amari / DeepseaXX
   url       : https://deepseaxx.com/
   avatar    : /assets/avatar.png # path or url of avatar image (square)
@@ -191,7 +191,7 @@ defaults:
       show_edit_on_github: true
       show_subscribe: false
       pageview: true
-
+# https://kitian616.github.io/jekyll-TeXt-theme/docs/zh/layouts#articles-layout
 
 ## => Plugins
 ##############################
