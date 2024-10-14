@@ -71,6 +71,8 @@ H4sIAAAAAAAACtVcW08bSRb+K8jsI5sxBAjx48zLPqx2pZ2HlXY3L8lktJEymcwmO9JqFAnbMb5iYyBc
 
 ### 【AA】【快捷菜单切职业+常用传送+游戏内菜单+绿色卫月指令+狩猎常用合集大全套】
 
+也可选用Umbra的换职业套组来实现
+
 已适配 7.0 的职业和传送图标和传送地点，感谢小刺猬提供的 7.0 点位。
 
 自用为主，包含部分底裤挂的开启指令，建议自己根据需求调整和删除。
