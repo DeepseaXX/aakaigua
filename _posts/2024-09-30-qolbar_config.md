@@ -21,6 +21,10 @@ Github 版：[Qol bar 设置教程](/2024/09/30/qolbar_config.html)
 
 欢迎前往[讨论页面](https://github.com/DeepseaXX/aakaigua/discussions)参与讨论。
 
+## 已知问题
+
+使用微软输入法输入时会出现卡顿，按一次出三次的现象。换别的输入法可破。
+
 ## Qolbar 主界面
 
 从左到右依次是
