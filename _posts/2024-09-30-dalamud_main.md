@@ -101,7 +101,7 @@ Google，DeepL，有道，QQ 截图翻译等等
 
 再没有，看日志。
 
-![](/assets/images/FF14卫月非官方无底线售后_2024-09-30-15-25-19.png)
+![](/assets/images/2024-09-30-dalamud_main_2024-09-30-15-25-19.png)
 
 ### Auto Action 为什么没了
 
