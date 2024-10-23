@@ -1,5 +1,5 @@
 ---
-title: 【FF14卫月】【便利插件总结】Dalamud 插件目录
+title: 【立本挂友的便利插件总结】Dalamud 插件目录
 author: AA
 key: 2024-10-09-dalamud_catalogue
 tags: Gua Dalamud

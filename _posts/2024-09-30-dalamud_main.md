@@ -1,5 +1,5 @@
 ---
-title: 卫月非官方无底线售后
+title: 卫月非官方无底线售后问答中心
 author: AA
 key: 2024-09-30-dalamud_main
 tags: Gua Dalamud
@@ -218,6 +218,10 @@ veyn（vnavmesh 原版）
 
 `https://puni.sh/api/repository/veyn`
 
+autoduty
+
+`https://puni.sh/api/repository/herc`
+
 veyn 自己的
 
 `https://github.com/awgil/ffxiv_plugin_distribution/raw/master/pluginmaster.json`
@@ -284,7 +288,8 @@ Karlin K 佬！
 
 dr，atmosphere 门(还有一个国外用的来着)
 
-`https://gh.atmoomen.top/DalamudPlugins/main/pluginmaster-cn.json`
+国内`https://gh.atmoomen.top/DalamudPlugins/main/pluginmaster-cn.json`
+国际`https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json`
 
 4679
 
