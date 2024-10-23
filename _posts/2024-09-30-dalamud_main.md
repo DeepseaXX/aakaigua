@@ -15,15 +15,14 @@ tags: Gua Dalamud
 
 善用 Ctrl+F 搜索，和左边目录功能
 
-### 已写的其他文档
+### 推荐阅读的其他文档
 
-无人岛体验提升的卫月插件已知汇总
+根据需求自取捏
 
-Qol bar 自用分享
-
-Qol bar 设置教程
-
-狩猎触发用到的好物（工具）推荐
+- 无人岛体验提升的卫月插件已知汇总
+- Qol bar 自用分享
+- Qol bar 设置教程
+- 狩猎触发用到的好物（工具）推荐
 
 ### 友情（陌生人）链接：
 
@@ -52,26 +51,25 @@ DS1H4sIAAAAAAAACqVY3VPjNhD/Vxg/tTMMI8uyZeWNQDk6c3SYg/aufTOJSFxMnDoOxx1z/3v1sSvJs
 
 ### 第三方插件安装失败怎么办，我用第三方库爆炸了怎么办，我找不到某第三方插件怎么办，有没有能实现 xxx 的功能的插件？
 
-首先别去国服卫月维护团队问，去找对应的作者或者反馈频道。其次大家都是用爱发电（司马小店除外），别人给你回答是慈善，不愿意理你是正常。开挂本就逆天而行，有信息差是常态，但是先尝试自己思考自己寻找再解决。
+首先别去**国服卫月维护团队**问，去找**对应的作者或者反馈频道**。其次大家都是用爱发电（司马小店除外），别人给你回答是慈善，不愿意理你是正常。开挂本就逆天而行，有信息差是常态，但是先尝试自己思考自己寻找再解决。
 
-安装失败大概率是因为没更新，小概率因为网络问题。具体看日志，或者带日志撞人。
+**安装失败**大概率是因为没更新，小概率因为网络问题。具体看日志，或者带日志撞人。
 
-第三方库爆炸可能是因为你用了国际服版本的，也有可能是作者学艺不精。还是那句话，开挂本就逆天而行，什么都有可能，但是在你问问题之前，先去找到你问题发生前后的日志，并描述你当时的操作。谁也不是赛博老中医，不会隔空知道你有什么问题。
+**第三方库爆炸**可能是因为你用了国际服版本的，也有可能是作者学艺不精。还是那句话，开挂本就逆天而行，什么都有可能，但是在你问问题之前，先去找到你问题发生前后的日志，并描述你当时的操作。谁也不是赛博老中医，不会隔空知道你有什么问题。
 
-找不到某个挂了，可能有各种原因：作者只放了压缩包，没放库导致你迷路了；作者摆了几天没更新；作者改名了，库地址突然变了但是你不知道。善用搜索，在 github 或者最上面的链接搜，可能会搜到。但是，耐心和好的态度永远会让你离答案更近一点。
+**找不到某个挂了**，可能有各种原因：作者只放了压缩包，没放库导致你迷路了；作者摆了几天没更新；作者改名了，库地址突然变了但是你不知道。善用搜索，在 github 或者最上面的链接搜，可能会搜到。但是，耐心和好的态度永远会让你离答案更近一点。
 
 有没有实现 xxx 功能的插件这个事情，我可能知道也可能不知道，如果你恰好有我的联系方式我又看见了，可能会说。我也想过把我会的都写下来，但是啥必闲鱼小店四个吗，我不能让他们赚黑心钱赚得太舒服，所以可能不会太公开写，尤其是那些底线爆炸的挂。
 
 ### 第三方库下载失败怎么办？
 
-首先确认你能上 Github。不能的话，我只知道微软商店的上 Watt Toolkit，或者用 fastgit，或者其他国内代理。由于我没有这方面经验所以自行解决，多的我也不会。
+首先确认你能上 Github。不能的话，我只知道微软商店的上 Watt Toolkit，~~或者用 fastgit，~~或者其他国内代理。由于我没有这方面经验所以自行解决，多的我也不会。
 
 ### Fastgit？
 
 举例，以下两个链接，第二个就是第一个的 fastgit 版本。另外替换格式不完全相同，自行搜索。
 
-https://raw.githubusercontent.com/44451516/XIVSlothCombo/CN/release/pluginmaster.json
-https://raw.fastgit.org/44451516/XIVSlothCombo/CN/release/pluginmaster.json
+> https://raw.githubusercontent.com/44451516/XIVSlothCombo/CN/release/pluginmaster.json >https://raw.fastgit.org/44451516/XIVSlothCombo/CN/release/pluginmaster.json
 
 ### 本地包？
 
@@ -109,7 +107,13 @@ Google，DeepL，有道，QQ 截图翻译等等
 
 顺便国服卫月 ban 掉 AutoAction 是因为原作者太跳，天天在 B 站发视频才 ban 的。
 
-#### 替代品？Sloth Combo+Something need doing
+### Rotation Solver 为什么司马
+
+`Rotation Solver` 就是`Auto Action`，又叫`Auto Attack`的原主作者司马转生产物。关于这个故事请参见上一条或者相关阅读：[NiGuangOwO/-](https://github.com/NiGuangOwO/-)
+
+非要使用请选择去除了 40% 冗余代码的 `Rotation Solver Reborn`，或`AEAssistv3`谢谢喵。
+
+#### 上古手搓替代品？Sloth Combo+Something need doing
 
 **SC**
 
@@ -144,35 +148,20 @@ json 文件，和 txt 文件一样，都是文本文档，最简单的方法用*
 
 ### 他们视频里打本地上有范围，怎么弄
 
-Splatoon，已经被 ban，自己找 unban，我不开，不打高难，不知道。
+`NyaDraw`或`Splatoon`，被 ban 的话自己找 unban，我不开，不打高难，不知道。
 
-### 他们让我改 Api 版本，怎么改阿？
+### 侧边雷达小窗的范围提示/自动躲黄圈跑机制/Fate 跑机制/灿烂神域半自动
+
+侧边雷达小窗的范围提示是`Boss Mod`或者由`Boss Mod Reborn`。自带这两家作者/团队之间有矛盾，功能互有高低，建议是都装上试试。
+
+基本的黄圈不需要适配也可以躲，部分特殊机制需要特殊的适配，不一定有。部分没适配的副本开启了 AI 功能会跳崖，慎用。
+
+灿烂神域老一老二的击退无法处理会死。道中需要自己跑。
+
+### 他们让我改 Api 版本，怎么改阿？/远古挂爆炸了但是听说改 api 版本能用怎么办啊？
 
 首先找到你卫月本地位置，蓝月亮（红月亮结构差不多自己找找）的话，在”`Dalamud\XIVLauncherCN\Roaming\installedPlugins`“下，有你用正常方法安装的插件本体。如果是本地就 `devplugins`。打开你需要修改的文件夹，内部找到“插件名.json”并打开（不会打开前面找找如何打开 json），找到
 "`DalamudApiLevel`": ，将后面的数字+1。通常情况下是+1，但是有跨越版本的千年老挂的情况，那样就自己改成对应版本（比如现在游戏 6.3 对应 api8）。最后，挪到 `devplugin`（无论以前在哪），并走一遍加载本地插件的流程。
-
-### 我想要那个自动那啥，在哪？
-
-这四个聚集了很多底线爆炸挂，还是没有就去看小小梦魇
-
-如果我说了 puni.sh 就是这个
-`https://love.puni.sh/ment.json`
-
-如果我说了 niguang 就是这个
-
-`https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json`
-
-如果我说了初春就是这个
-
-`https://raw.githubusercontent.com/uiharuayako/DalamudPlugins/main/pluginmaster.json`
-
-如果我说了 gamous 就是这个
-
-`https://raw.githubusercontent.com/gamous/DalamudPluginsCN-Dev/main/MordionGaol.json`
-
-moewcorp
-
-`https://raw.githubusercontent.com/moewcorp/DalamudPlugins/main/pluginmaster.json`
 
 ### 我要上月球
 
@@ -214,6 +203,99 @@ pu 门等，库非公开，导致无法浏览 history 的不适合此方法。
 ### 有些 Penumbra 加载的 mod（例如目标圈）无效怎么办？
 
 Penumbra 设置还是卫月设置忘了，有一个等插件加载完毕后再启动游戏。
+
+### 我想要那个自动那啥，在哪？
+
+这四个聚集了很多底线爆炸挂，还是没有就去看小小梦魇
+
+如果我说了 puni.sh 就是这个（俗称 pu 门）
+
+`https://love.puni.sh/ment.json`
+
+pu 门其他分支
+
+veyn（vnavmesh 原版）
+
+`https://puni.sh/api/repository/veyn`
+
+veyn 自己的
+
+`https://github.com/awgil/ffxiv_plugin_distribution/raw/master/pluginmaster.json`
+
+如果我说了 niguang （逆光）就是这个
+
+`https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json`
+
+如果我说了初春就是这个
+
+`https://raw.githubusercontent.com/uiharuayako/DalamudPlugins/main/pluginmaster.json`
+
+如果我说了 gamous 就是这个
+
+`https://raw.githubusercontent.com/gamous/DalamudPluginsCN-Dev/main/MordionGaol.json`
+
+moewcorp
+
+`https://raw.githubusercontent.com/moewcorp/DalamudPlugins/main/pluginmaster.json`
+
+獭三方，包括但不限于 Penumbra Glamourer Mare
+
+`https://dalamud_cn_3rd.otters.cloud/plugins/Mare`
+
+`https://dalamud_cn_3rd.otters.cloud/plugins/Penumbra`
+
+`https://dalamud_cn_3rd.otters.cloud/plugins/Glamourer`
+
+`https://dalamud_cn_3rd.otters.cloud/plugins/all`
+
+Reborn 团队
+`https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json`
+忘了，见过，但是忘了
+
+```
+https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/cn.json
+https://raw.githubusercontent.com/LeonBlade/DalamudPlugins/main/repo.json
+https://raw.githubusercontent.com/grammernatzi/MyDalamudPlugins/master/pluginmaster.json
+https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json
+https://raw.githubusercontent.com/Nik-Potokar/MyDalamudPlugins/main/pluginmaster.json
+https://github.com/NightmareXIV/MyDalamudPlugins/raw/main/pluginmaster_experimental.json
+
+```
+
+那个 Material UI 的
+
+`https://raw.githubusercontent.com/Sevii77/ffxiv_materialui_accent/master/repo.json`
+
+某个梦魇
+
+`https://raw.githubusercontent.com/LittleNightmare/MyDalamudPlugins/main/repo.json`
+
+哈哈牙刷
+
+`https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json`
+
+daemitus
+
+`https://raw.githubusercontet.com/daemitus/MyDalamudPlugins/CN/pluginmaster.json`
+
+Karlin K 佬！
+
+`https://raw.githubusercontent.com/Karlin-Z/DalamudPlugins/Api4/pluginmaster.json`
+
+dr，atmosphere 门(还有一个国外用的来着)
+
+`https://gh.atmoomen.top/DalamudPlugins/main/pluginmaster-cn.json`
+
+4679
+
+`https://raw.githubusercontent.com/4679/DalamudPlugins/main/repo.json`
+
+Errer！
+
+`https://gitea.com/Errer/NekohackAuth/raw/branch/main/pluginmaster.json`
+
+Yarukon
+`https://github.com/Yarukon/Ktisis/raw/main/repo.json`
 
 ### 我是笨蛋怎么办？
 
