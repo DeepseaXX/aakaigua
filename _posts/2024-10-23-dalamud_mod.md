@@ -5,9 +5,15 @@ key: 2024-10-23-dalamud_mod
 tags: Gua Dalamud mod
 ---
 
+<!--more-->
+
 ## 写在前面
 
 我不怎么玩 mod，对我来说我 mod 只有修改一下狩猎地图，还有一些功能性 mod 这样子……
+
+## 推荐阅读
+
+[【FF14 7.0 模组（Mod）更新教程】](https://docs.qq.com/doc/DSmpySUtlclVDa0NL)
 
 ## Penumbra - Mod 加载工具
 
@@ -22,6 +28,8 @@ tags: Gua Dalamud mod
 ## Mare Synchronos - 通过外部服务实现游戏中对别人可视化自己身上的 Mod
 
 `https://raw.githubusercontent.com/Bluefissure/Mare-client/CN/repo/plogonmaster.json`
+
+[【mare 教程】（让别人看到你的 mod）（玩 erp 用的）](https://www.bilibili.com/read/cv34267163/)
 
 ## Material UI
 

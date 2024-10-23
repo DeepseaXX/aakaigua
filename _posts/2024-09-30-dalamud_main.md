@@ -15,21 +15,7 @@ tags: Gua Dalamud
 
 善用 Ctrl+F 搜索，和左边目录功能
 
-### 推荐阅读的其他文档
-
-根据需求自取捏
-
-- 无人岛体验提升的卫月插件已知汇总
-- Qol bar 自用分享
-- Qol bar 设置教程
-- 狩猎触发用到的好物（工具）推荐
-
-### 友情（陌生人）链接：
-
-- 底线爆炸但是又不怎么爆炸的第三方库小小梦魇介绍：[卫月仓库链接整理 - 小小梦魇的博客 LittleNightmare Blog](https://blog.littlenightmare.top/2021/05/18/%E5%8D%AB%E6%9C%88%E4%BB%93%E5%BA%93%E9%93%BE%E6%8E%A5/)
-- 外挂名搜挂网[XIV Plugins](https://xivplugins.com/)
-- 介绍了很多底线爆炸挂和加载本地文件等等适合上不去 github 宝宝体质的解决方法 [-柒染凌-的个人空间\_哔哩哔哩\_bilibili](https://space.bilibili.com/32799123)
-- [日本小小梦魇](https://toramemoblog.com/category/tools)（配合机翻食用）
+[更常规更绿色的官方问题请看 XIVLauncherCN 问答与帮助](https://ottercorp.github.io/faq/)
 
 ## 写在前面的后面：看日志的方法
 
@@ -204,7 +190,13 @@ pu 门等，库非公开，导致无法浏览 history 的不适合此方法。
 
 Penumbra 设置还是卫月设置忘了，有一个等插件加载完毕后再启动游戏。
 
-### 我想要那个自动那啥，在哪？
+### 我是笨蛋怎么办？
+
+我希望大家永远不要嘲笑谦虚的笨蛋，但是作为一个笨蛋，学会从别人的角度思考自己的问题是否具体，是否清晰，是否得体，会让你的问题解决得更快，也让人更想要去帮你解决问题。
+
+~~加薪小指南~~关联阅读：[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
+
+### 我想要那个自动那啥，在哪？【个人的裤链整理】
 
 这四个聚集了很多底线爆炸挂，还是没有就去看小小梦魇
 
@@ -301,9 +293,3 @@ Errer！
 
 Yarukon
 `https://github.com/Yarukon/Ktisis/raw/main/repo.json`
-
-### 我是笨蛋怎么办？
-
-我希望大家永远不要嘲笑谦虚的笨蛋，但是作为一个笨蛋，学会从别人的角度思考自己的问题是否具体，是否清晰，是否得体，会让你的问题解决得更快，也让人更想要去帮你解决问题。
-
-~~加薪小指南~~关联阅读：[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)

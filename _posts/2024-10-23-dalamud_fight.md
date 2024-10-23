@@ -5,6 +5,8 @@ key: 2024-10-23-dalamud_start
 tags: Gua Dalamud Fight
 ---
 
+<!--more-->
+
 ## 写在前面
 
 以下全部是挂！！脚本！！！
@@ -15,8 +17,8 @@ tags: Gua Dalamud Fight
 
 ### AEassist3.0
 
-不是很想直接放邀请链接。
-讲求缘分的一个插件。
+[【AEAssist 教程】内含 DC 链接等内容](https://docs.qq.com/doc/DVWxNZWx1ZW5qVFZC)
+https://docs.qq.com/doc/DVWxNZWx1ZW5qVFZC
 
 ### BossMod 内置
 
@@ -113,3 +115,16 @@ H4sIAAAAAAAACqWTQUvDMBiG/8r48BhrmrZLmpse9DIQ9OBBd6ilm8LWjrUrjDGYiA4V3Tx4mVMG3nYQ
 ### Deliveroo - 自动交军票
 
 https://plugins.carvel.li/
+
+### Waymark Present - 标点存储/放置
+
+[标点文档：群精华/群公告 用卫月导入，塔塔露都会](https://docs.qq.com/doc/DZENUSml5VEluZ3lm?u=undefined)
+
+#### FF14 标点大全（截止到 P8S）
+
+[钻石神兵前](https://docs.qq.com/sheet/DY0ttR2xQT1Vjc2V4?tab=BB08J2)：https://docs.qq.com/sheet/DY0ttR2xQT1Vjc2V4?tab=BB08J2
+
+[按摩店之后](https://bbs.tggfl.com/topic/223/ff14%E5%8D%AB%E6%9C%88-waymark-present-%E6%A0%87%E7%82%B9%E5%90%88%E9%9B%86)
+
+[高难副本标点数据(从 6.5 开始持续更新) 178](https://nga.178.com/read.php?tid=39468696&fav=:FF3CFBCDB)
+https://nga.178.com/read.php?tid=39468696&fav=:FF3CFBCDB

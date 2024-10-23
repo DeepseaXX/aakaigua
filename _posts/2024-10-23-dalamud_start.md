@@ -9,11 +9,7 @@ tags: Gua Dalamud
 
 如果您已经是掌握 Dalamud 的基本使用的挂友，请跳过此文，直接进入下一篇章。
 
-## 推荐阅读
-
-（待施工，结束前请自己看归档页面）
-
-[归档 - AAKaiGua](/archive.html)
+<!--more-->
 
 ## XIVLauncher
 
@@ -36,7 +32,7 @@ FF14 原版启动器已经很老了，这导致它运行缓慢且不支持保存
 
 [在这个页面下载](https://aonyx.ffxiv.wang/)最新的「Setup.exe」并运行 XIVLauncher 将会启动并添加至您的开始菜单。 如果您想要卸载 XL，您可以使用 Windows 应用程序菜单或者右键开始菜单中的 XIVLauncher。
 
-⚠ 注意！ 如果您在安装过程中遇到错误或启动器无法正常工作，请先确保您已在杀毒软件中排除了 XIVLauncher。 许多付费杀毒软件会将 XIVLauncher 误认为病毒。 您可以自行在 VirusTotal 上查看病毒检测报告。 如果您需要任何帮助，请[查阅常见问题](https://goatcorp.github.io/faq/xl_troubleshooting#q-how-do-i-whitelist-xivlauncher-and-dalamud-so-my-antivirus-leaves-them-alone)或加入我们的 Discord 服务器。
+⚠ 注意！ 如果您在安装过程中遇到错误或启动器无法正常工作，请先确保您已在杀毒软件中排除了 XIVLauncher。 许多付费杀毒软件会将 XIVLauncher 误认为病毒。 您可以自行在 VirusTotal 上查看病毒检测报告。 如果您需要任何帮助，请
 
 ### 进入游戏黑屏
 
@@ -93,6 +89,53 @@ Tips：可以设置自启动 ACT
 
 根据你的需求：
 mod，幻化，日常增益，战斗增强，生产采集，自动化 Fate 亲信战斗副本等等等等………………选择自己的开挂路线吧！！
+
+### 进阶阅读：友情（陌生人）链接
+
+（待施工，结束前请自己看归档页面）
+
+- [归档 - AAKaiGua](/archive.html)
+- [各种疑难杂症，问题请见](/2024/09/30/dalamud_main.html)
+- [【立本挂友的便利插件总结】Dalamud 插件目录 - AAKaiGua](/2024/10/09/dalamud_catalogue.html)
+- [Dalamud 卫月战斗系列 - AAKaiGua](/2024/10/23/dalamud_fight.html)
+- [Dalamud 卫月采集制作系列 - AAKaiGua](/2024/10/23/dalamud_gather-craft.html)
+- [Dalamud 的 Mod 相关 - AAKaiGua](/2024/10/23/dalamud_mod.html)
+- [Dalamud 卫月无底裤 被绿玩看见直接莫迪翁系列 - AAKaiGua](/2024/10/23/dalamud_no_pants.html)
+
+- 底线爆炸但是又不怎么爆炸的第三方库小小梦魇介绍：[卫月仓库链接整理 - 小小梦魇的博客 LittleNightmare Blog](https://blog.littlenightmare.top/2021/05/18/%E5%8D%AB%E6%9C%88%E4%BB%93%E5%BA%93%E9%93%BE%E6%8E%A5/)
+- 外挂名搜挂网[XIV Plugins](https://xivplugins.com/)
+- 介绍了很多底线爆炸挂和加载本地文件等等适合上不去 github 宝宝体质的解决方法 [-柒染凌-的个人空间\_哔哩哔哩\_bilibili](https://space.bilibili.com/32799123)
+- [日本小小梦魇](https://toramemoblog.com/category/tools)（配合机翻食用）
+- [【腾讯文档】第三方库分享整理](https://docs.qq.com/sheet/DTUNHcndzeVNuZUZo?scene=5b09bb418ab4cc4947fccc715IOlq1&tab=000002)
+- [【腾讯文档】卫月及国服 ACT 使用指南(6.5)-裤子篇](https://docs.qq.com/doc/DUXFPQktvd3dmbUdl)
+
+【关于魔法 微软商店下载 watt toolkit；win7 系统自行寻找代理或者其他付费魔法】
+
+复制用
+
+```
+【FF14 7.0模组（Mod）更新教程】
+https://docs.qq.com/doc/DSmpySUtlclVDa0NL
+【mare教程】（让别人看到你的mod）（玩erp用的）
+https://www.bilibili.com/read/cv34267163/
+
+标点文档：群精华/群公告 用卫月导入，塔塔露都会
+https://docs.qq.com/doc/DZENUSml5VEluZ3lm?u=undefined
+----
+FF14标点大全（截止到P8S）
+钻石神兵前：https://docs.qq.com/sheet/DY0ttR2xQT1Vjc2V4?tab=BB08J2
+按摩店之后：https://bbs.tggfl.com/topic/223/ff14%E5%8D%AB%E6%9C%88-waymark-present-%E6%A0%87%E7%82%B9%E5%90%88%E9%9B%86
+高难副本标点数据(从6.5开始持续更新) 178
+https://nga.178.com/read.php?tid=39468696&fav=:FF3CFBCDB
+
+【腾讯文档】第三方库分享整理
+https://docs.qq.com/sheet/DTUNHcndzeVNuZUZo?scene=5b09bb418ab4cc4947fccc715IOlq1&tab=000002
+【腾讯文档】卫月及国服ACT使用指南(6.5)-裤子篇
+https://docs.qq.com/doc/DUXFPQktvd3dmbUdl
+【AEAssist教程】内含DC链接等内容
+https://docs.qq.com/doc/DVWxNZWx1ZW5qVFZC
+【关于魔法 微软商店下载watt toolkit；win7系统自行寻找代理或者其他付费魔法】
+```
 
 ## 赠品
 

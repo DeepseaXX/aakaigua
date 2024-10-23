@@ -5,6 +5,8 @@ key: 2024-10-23-dalamud_no_pants
 tags: Gua Dalamud
 ---
 
+<!--more-->
+
 ## XTP - 字面意思
 
 目前仅本地安装
