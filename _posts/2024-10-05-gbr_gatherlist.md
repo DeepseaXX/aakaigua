@@ -2,7 +2,7 @@
 title: Gatherbuddy Reborn 预设分享
 author: AA
 key: 2024-10-05-gbr_gatherlist
-tags: Gua Gathering
+tags: Gua Gathering Dalamud
 ---
 
 <!--more-->

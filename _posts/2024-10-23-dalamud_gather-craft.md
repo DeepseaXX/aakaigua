@@ -2,7 +2,7 @@
 title: Dalamud 卫月采集制作系列
 author: AA
 key: 2024-10-23-dalamud_start
-tags: Gua Dalamud
+tags: Gua Dalamud Gathering Crafting
 ---
 
 <!--more-->
@@ -12,6 +12,15 @@ tags: Gua Dalamud
 以下全部是挂！！脚本！！！
 
 请各位像个人！！！！
+
+## AntiAfkKick - 防 T
+
+挂亲信、采集、制作等，虽然角色在动，但是依然判定你为离开状态，不开防 T 的话会被干走。
+
+`https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json`
+
+`https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json`
+
 
 ## GatherBuddy - 采集列表
 
@@ -67,3 +76,21 @@ tags: Gua Dalamud
 ## AutoRetainer - 自动雇员
 
 `https://love.puni.sh/ment.json`
+
+
+
+## Something Need Doing - 功能更强的宏
+
+`https://raw.githubusercontent.com/WorkingRobot/MyDalamudPlugins/main/plogon.json`
+
+
+## Daily Routines - 强大自动化合集
+
+比如理符？
+
+`https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json`
+
+
+## Marketbuddy - 更便捷的压价改价上架市场工具
+
+汉化库：`https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.json`

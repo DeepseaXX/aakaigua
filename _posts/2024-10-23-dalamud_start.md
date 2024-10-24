@@ -11,6 +11,8 @@ tags: Gua Dalamud
 
 <!--more-->
 
+欢迎前往[讨论页面](https://github.com/DeepseaXX/aakaigua/discussions)参与讨论。
+
 ## XIVLauncher
 
 XIVLauncher（简写为 XL）是用于最终幻想 14 的一个多功能启动器，包含各种可用的附加组件和游戏增强功能。

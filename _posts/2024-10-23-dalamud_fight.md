@@ -2,7 +2,7 @@
 title: Dalamud 卫月战斗系列
 author: AA
 key: 2024-10-23-dalamud_start
-tags: Gua Dalamud Fight
+tags: Gua Dalamud Fighting
 ---
 
 <!--more-->
@@ -12,6 +12,16 @@ tags: Gua Dalamud Fight
 以下全部是挂！！脚本！！！
 
 请各位像个人！！！！
+
+暂时不包含 PvP！！！
+
+## AntiAfkKick - 防 T
+
+挂亲信、采集、制作等，虽然角色在动，但是依然判定你为离开状态，不开防 T 的话会被干走。
+
+`https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json`
+
+`https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json`
 
 ## 自动战斗循环
 
@@ -32,7 +42,7 @@ https://docs.qq.com/doc/DVWxNZWx1ZW5qVFZC
 
 ## 大脑按摩类
 
-### BossMod/BossMod Reborn - 小窗雷达画图
+### BossMod / BossMod Reborn - 小窗雷达画图
 
 这俩的前世今生：BMR 团队（？）跟 BM 作者理念不合分家，但是 BMR 一直在同步 BM 的代码，这让 BM 及其追随者非常不爽。
 
@@ -50,7 +60,7 @@ BMR：`https://raw.githubusercontent.com/44451516-ff14/BossmodRebornCN/refs/head
 
 Discord：`https://discord.com/channels/1255182937540919396/1255350055049887774`
 
-### Splatoon - 使用 Imgui 绘制的拟真画图
+### Splatoon / X - 使用 Imgui 绘制的拟真画图
 
 盲区
 
@@ -114,7 +124,7 @@ H4sIAAAAAAAACqWTQUvDMBiG/8r48BhrmrZLmpse9DIQ9OBBd6ilm8LWjrUrjDGYiA4V3Tx4mVMG3nYQ
 
 ### Deliveroo - 自动交军票
 
-https://plugins.carvel.li/
+`https://plugins.carvel.li/`
 
 ### Waymark Present - 标点存储/放置
 
@@ -128,3 +138,21 @@ https://plugins.carvel.li/
 
 [高难副本标点数据(从 6.5 开始持续更新) 178](https://nga.178.com/read.php?tid=39468696&fav=:FF3CFBCDB)
 https://nga.178.com/read.php?tid=39468696&fav=:FF3CFBCDB
+
+### LazyLoot - 自动 roll 点
+
+类似的有很多。比如我自己用的是 Simple Tweaks 的“roll 完一个物品自动跳转到下一个”。
+
+库：`https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json`
+
+### FuckAnimationLock - 三插
+
+`https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json`
+
+### FF Logs Viewer (CN) - 游戏内出警
+
+`https://raw.githubusercontent.com/NukoOoOoOoO/DalamudPlugins/dev/pluginmaster.json`
+
+### Something Need Doing - 功能更强的宏
+
+`https://raw.githubusercontent.com/WorkingRobot/MyDalamudPlugins/main/plogon.json`
