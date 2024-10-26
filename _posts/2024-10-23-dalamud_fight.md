@@ -86,7 +86,7 @@ H4sIAAAAAAAACqWTQUvDMBiG/8r48BhrmrZLmpse9DIQ9OBBd6ilm8LWjrUrjDGYiA4V3Tx4mVMG3nYQ
 
 大致思路：
 
-- 跟随队友或 vnavmesh 寻路到下一个点位
+- 跟随队友 或使用 Mappy 的 FateList（地图界面的右键开启）标点后使用 Vnavmesh 寻路到下一个点位
 - 落地输出（可用任何一个输出插件。个人推荐 AE，BM 有路上吸引野怪仇恨之后直接原地下坐骑开打的问题）
 - 躲避黄圈：Bossmod / Bossmod Reborn
 - 结束提醒：ChatAlerts/ACT 触发器
