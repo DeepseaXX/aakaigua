@@ -21,7 +21,6 @@ tags: Gua Dalamud Gathering Crafting
 
 `https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json`
 
-
 ## GatherBuddy - 采集列表
 
 显示素材的情报，显示限时素材的采集倒计时，点击名字即可传送最近大水晶+切职业（切职业需要在 Config-General-Set Names 里面改成中文职业名）
@@ -34,13 +33,15 @@ tags: Gua Dalamud Gathering Crafting
 
 国际`https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json`
 
-添加
-
 ### 相关阅读
 
 [利用 Artisan 和 Gatherbuddy Reborn 自动化每日军团筹备任务 - AAKaiGua](/2024/10/05/gc_gbr.html)
 
 [Gatherbuddy Reborn 预设分享 - AAKaiGua](/2024/10/05/gbr_gatherlist.html)
+
+## visland - 可用于采集的自定义路线的循环跑路工具
+
+需要搭配 vnavmesh 的寻路，以及 Pandora（或其他）的靠近采集点自动与采集点交互。
 
 ## Artisan - 自动制作
 
@@ -77,19 +78,15 @@ tags: Gua Dalamud Gathering Crafting
 
 `https://love.puni.sh/ment.json`
 
-
-
 ## Something Need Doing - 功能更强的宏
 
 `https://raw.githubusercontent.com/WorkingRobot/MyDalamudPlugins/main/plogon.json`
-
 
 ## Daily Routines - 强大自动化合集
 
 比如理符？
 
 `https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json`
-
 
 ## Marketbuddy - 更便捷的压价改价上架市场工具
 
