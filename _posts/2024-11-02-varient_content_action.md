@@ -1,5 +1,5 @@
 ---
-title: 多变迷宫下根据添加使用任务指令的土质触发器 Something Need Doing
+title: 多变迷宫下上盾自奶上Dot的土制触发器 Something Need Doing
 author: AA
 key: 2024-11-02-varient_content_action.md
 tags: Gua Dalamud SomethingNeedDoing Varient
