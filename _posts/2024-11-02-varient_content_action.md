@@ -77,8 +77,10 @@ end
 
 function CheckTargetDot()
     -- 目标的dot
-    if not TargetHasStatus(3359) then
-        UseVarientDot()
+    if IsTargetInCombat() then
+        if not TargetHasStatus(3359) then
+            UseVarientDot()
+        end
     end
 end
 
@@ -113,5 +115,4 @@ while true do
     -- 执行间隔
     yield("/wait "..VarientCheck)
 end
-
 ```
