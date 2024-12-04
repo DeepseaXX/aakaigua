@@ -1,5 +1,5 @@
 ---
-title: Dalamud 卫月起手
+title: Dalamud 卫月起手附赠 AA 自用列表
 author: 高手群友 AA
 key: 2024-10-23-dalamud_start
 tags: Gua Dalamud

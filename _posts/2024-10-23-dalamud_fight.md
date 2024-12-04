@@ -27,6 +27,8 @@ tags: Gua Dalamud Fighting
 
 ### AEassist3.0
 
+别几把去绿玩脸上跳了求求你们。
+
 [【AEAssist 教程】内含 DC 链接等内容](https://docs.qq.com/doc/DVWxNZWx1ZW5qVFZC)
 https://docs.qq.com/doc/DVWxNZWx1ZW5qVFZC
 
@@ -36,13 +38,17 @@ https://docs.qq.com/doc/DVWxNZWx1ZW5qVFZC
 
 ### Rotation Solver / Reborn
 
-你们用我不拦着，但是别指望我介绍这玩意。
+你们用我不拦着，但是别指望我介绍这玩意。更别问我关于秋b的一切东西。
 
 非要用请用 Reborn。
 
 ## 大脑按摩类
 
 ### BossMod / BossMod Reborn - 小窗雷达画图
+
+B站懂哥嘴里，传说中的“吸附式瞬移！”
+
+对于已经适配的副本 / Fate 有较强大的自动躲机制能力，对于未作适配的场景也可躲最基础的黄圈，对于黄圈点名后击退的机制表现得像弱智一样。会被两个黄圈挤到跳崖，也会在部分大范围非致死 AOE 时选择跳崖。
 
 这俩的前世今生：BMR 团队（？）跟 BM 作者理念不合分家，但是 BMR 一直在同步 BM 的代码，这让 BM 及其追随者非常不爽。
 
@@ -56,9 +62,22 @@ BMR：`https://raw.githubusercontent.com/44451516-ff14/BossmodRebornCN/refs/head
 
 ### NyaDraw - 使用游戏原生特效实现的画图
 
+通过猫猫验证后开箱即用，无需配置。初创阶段如遇到各种问题，请带上详细日志，~~最好~~附带录像去 Discord 反馈。
+
 库：`https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json`
 
 Discord：`https://discord.com/channels/1255182937540919396/1255350055049887774`
+
+### Kodakku Assist - 带画图功能的触发器
+
+卫月中的触发器，当你导入了现成的配置也可以实现机制画图功能，同时也可以配合指令或其他插件，完成自动执行指令，转化为TTS等操作。
+
+老年作者的Script分享库，包含龙狮和M1S-M4S，7.0俩极神和绝伊甸。
+
+[Karlin-Z/KodakkuAssistScript: A repository for storing scripts written for the Dalamud plugin KodakkuAssist.](https://github.com/Karlin-Z/KodakkuAssistScript)，
+
+
+编写日志和Wiki请见[Home · Karlin-Z/KodakkuAssistScript Wiki](https://github.com/Karlin-Z/KodakkuAssistScript/wiki)
 
 ### Splatoon / X - 使用 Imgui 绘制的拟真画图
 
@@ -66,13 +85,15 @@ Discord：`https://discord.com/channels/1255182937540919396/1255350055049887774`
 
 ## vnavmesh - 自动寻路
 
+已被ban，unban的方法在此文中不做介绍，这是检验你动手能力~~人脉~~的门槛！
+
 国服能用的版本
 
 国内`https://gh.atmoomen.top/DalamudPlugins/main/pluginmaster-cn.json`
 
 国服版本的国际库`https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json`
 
-建议搭配本人的 qolbar 食用
+建议搭配本人的 Qolbar 配置食用。
 
 ![](/assets/images/2024-10-23-dalamud_fight_2024-10-23-22-54-49.png)
 
@@ -84,13 +105,22 @@ H4sIAAAAAAAACqWTQUvDMBiG/8r48BhrmrZLmpse9DIQ9OBBd6ilm8LWjrUrjDGYiA4V3Tx4mVMG3nYQ
 
 ### Fate
 
-大致思路：
+#### 远古拼凑思路：
 
 - 跟随队友 或使用 Mappy 的 FateList（地图界面的右键开启）标点后使用 Vnavmesh 寻路到下一个点位
 - 落地输出（可用任何一个输出插件。个人推荐 AE，BM 有路上吸引野怪仇恨之后直接原地下坐骑开打的问题）
 - 躲避黄圈：Bossmod / Bossmod Reborn
 - 结束提醒：ChatAlerts/ACT 触发器
 - 跟随队友
+
+#### Something Need Doing 实现的基本全自动
+
+同样需要配合上述战斗/机制/寻路插件完成功能。
+
+~~等我想起来再把链接扔上来。~~
+
+请记得 lua 脚本一定要**开启 lua 模式**后再点执行！不然就会在新频发送自己的编程作业。
+
 
 ### Autoduty - 亲信及副本的自动路线规划
 
