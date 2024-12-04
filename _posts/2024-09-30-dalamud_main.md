@@ -136,11 +136,11 @@ json 文件，和 txt 文件一样，都是文本文档，最简单的方法用*
 
 `NyaDraw`或`Splatoon`，被 ban 的话自己找 unban，我不开，不打高难，不知道。
 
-### What is Unban? How can I do with Unban?
+### What is Unban?
 
 unban的方法不做介绍，这是检验你动手能力~~人脉~~的门槛！
 
-Maybe you can search "NightmareXIV / UnbanPluginsCN" ?
+Maybe you can google "NightmareXIV / UnbanPluginsCN".
 
 ### 侧边雷达小窗的范围提示/自动躲黄圈跑机制/Fate 跑机制/灿烂神域半自动
 
