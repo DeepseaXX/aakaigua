@@ -77,7 +77,9 @@ end
 
 function CheckTargetDot()
     -- 目标的dot
-    if IsTargetInCombat() then
+    -- 目标类型为2，BattleNpc时检测，防炸
+    if GetTargetObjectKind() == 2 then
+        -- 目标的dot状态检测
         if not TargetHasStatus(3359) then
             UseVarientDot()
         end
