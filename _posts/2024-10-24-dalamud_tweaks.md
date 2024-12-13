@@ -45,7 +45,7 @@ tags: Gua Dalamud
 
 ## Literal Map Link - 把符合格式的纯文本坐标转化为游戏内可点击坐标
 
-`https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json`
+`https://asvel.github.io/ffxiv-literal-map-link/`
 
 ## TextAdvance - 更加懒人的跳动画对话
 
