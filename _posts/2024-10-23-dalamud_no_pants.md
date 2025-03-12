@@ -33,3 +33,13 @@ Discord: `https://discord.com/channels/1108382171099566150/1108779292038529164`
 很强大，也会真的导致封号！
 
 请保证对自己开启的每一个选项负责。
+
+## Questionable - 自动任务 包括蛮族，节日，主线，支线等
+
+`https://plugins.carvel.li/`
+
+`/qst`唤出操作界面，可以试试接了任务之后点开始。
+
+需要的前置：vnavmesh（寻路）、TextAdvance（跳过动画和对话）、Lifestream（方便快捷的小水晶城内传送与换线跨服等）
+
+另需任一自动战斗插件。
