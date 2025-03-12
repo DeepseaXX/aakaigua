@@ -1,5 +1,5 @@
 ---
-title: Qol Bar 自用分享
+title: 【Qol Bar】自用分享
 author: AA
 key: 2024-09-30-qolbar_share
 tags: Qolbar Gua Dalamud

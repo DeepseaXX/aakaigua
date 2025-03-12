@@ -1,5 +1,5 @@
 ---
-title: Dalamud 卫月战斗系列
+title: 【Dalamud卫月】【战斗】专项推荐
 author: AA
 key: 2024-10-23-dalamud_start
 tags: Gua Dalamud Fighting

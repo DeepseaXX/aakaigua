@@ -1,5 +1,5 @@
 ---
-title: 【截至6.4】Waymark Present 标点合集
+title: 【截至6.4】【Waymark Present】标点合集
 author: AA
 key: 2024-10-06-waymark_present
 tags: WaymarkPresent Waymark Gua Dalamud

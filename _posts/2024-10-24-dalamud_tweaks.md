@@ -1,5 +1,5 @@
 ---
-title: Dalamud 卫月泛用性很强的无法分类的几乎必装小工具
+title: 【Dalamud卫月】【必装小工具】泛用性很强的无法分类的几乎必装小工具
 author: AA
 key: 2024-10-24-dalamud_tweaks
 tags: Gua Dalamud

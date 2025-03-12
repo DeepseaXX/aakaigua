@@ -1,5 +1,5 @@
 ---
-title: Dalamud 卫月无底裤
+title: 【Dalamud卫月】【无底裤插件】谜语人介绍
 author: AA
 key: 2024-10-23-dalamud_no_pants
 tags: Gua Dalamud

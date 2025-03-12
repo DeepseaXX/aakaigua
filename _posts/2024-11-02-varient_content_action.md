@@ -1,5 +1,5 @@
 ---
-title: 多变迷宫下上盾自奶上Dot的土制触发器 Something Need Doing
+title: 【Something Need Doing】【多变迷宫】上盾 自奶 上Dot的土制触发器
 author: AA
 key: 2024-11-02-varient_content_action.md
 tags: Gua Dalamud SomethingNeedDoing Varient
