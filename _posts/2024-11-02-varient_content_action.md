@@ -1,7 +1,7 @@
 ---
 title: 【Something Need Doing】【多变迷宫】上盾 自奶 上Dot的土制触发器
 author: AA
-key: 2024-11-02-varient_content_action.md
+key: 2024-11-02-varient_content_action
 tags: Gua Dalamud SomethingNeedDoing Varient
 ---
 
@@ -10,6 +10,8 @@ tags: Gua Dalamud SomethingNeedDoing Varient
 因为某挂在 7.0 更新后移除了相关支持，所以用 SomethingNeedDoing 手搓了一个。
 
 粗制滥造！主打一个能用就行！别喷！
+
+<!--more-->
 
 原理是每 n 秒（默认 2 秒）检测一次自己的血量，自己身上有无盾，和敌人有无 dot，然后判断条件使用技能。
 
