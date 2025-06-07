@@ -1,8 +1,8 @@
 ---
-title:【Dalamud卫月】【FATE】Farming
-author:AA
-key:2025-06-03-dalamud_fate_farming
-tags:Gua Dalamud Fate
+title: 【Dalamud卫月】【FATE】Farming
+author: AA
+key: 2025-06-03-dalamud_fate_farming
+tags: Gua Dalamud Fate
 ---
 
 <!--more-->
