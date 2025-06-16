@@ -35,7 +35,7 @@ DS1H4sIAAAAAAAACqVY3VPjNhD/Vxg/tTMMI8uyZeWNQDk6c3SYg/aufTOJSFxMnDoOxx1z/3v1sSvJs
 
 ## 问题们
 
-### 第三方插件安装失败怎么办，我用第三方库爆炸了怎么办，我找不到某第三方插件怎么办，有没有能实现 xxx 的功能的插件？
+### 第三方插件安装失败怎么办，我用第三方库爆炸了怎么办
 
 首先别去**国服卫月维护团队**问，去找**对应的作者或者反馈频道**。其次大家都是用爱发电（司马小店除外），别人给你回答是慈善，不愿意理你是正常。开挂本就逆天而行，有信息差是常态，但是先尝试自己思考自己寻找再解决。
 
@@ -43,7 +43,11 @@ DS1H4sIAAAAAAAACqVY3VPjNhD/Vxg/tTMMI8uyZeWNQDk6c3SYg/aufTOJSFxMnDoOxx1z/3v1sSvJs
 
 **第三方库爆炸**可能是因为你用了国际服版本的，也有可能是作者学艺不精。还是那句话，开挂本就逆天而行，什么都有可能，但是在你问问题之前，先去找到你问题发生前后的日志，并描述你当时的操作。谁也不是赛博老中医，不会隔空知道你有什么问题。
 
+### 我找不到某第三方插件怎么办，有没有能实现 xxx 的功能的插件？
+
 **找不到某个挂了**，可能有各种原因：作者只放了压缩包，没放库导致你迷路了；作者摆了几天没更新；作者改名了，库地址突然变了但是你不知道。善用搜索，在 github 或者最上面的链接搜，可能会搜到。但是，耐心和好的态度永远会让你离答案更近一点。
+
+### 有没有能实现 xxx 的功能的插件？
 
 有没有实现 xxx 功能的插件这个事情，我可能知道也可能不知道，如果你恰好有我的联系方式我又看见了，可能会说。我也想过把我会的都写下来，但是啥必闲鱼小店四个吗，我不能让他们赚黑心钱赚得太舒服，所以可能不会太公开写，尤其是那些底线爆炸的挂。
 
@@ -55,7 +59,9 @@ DS1H4sIAAAAAAAACqVY3VPjNhD/Vxg/tTMMI8uyZeWNQDk6c3SYg/aufTOJSFxMnDoOxx1z/3v1sSvJs
 
 举例，以下两个链接，第二个就是第一个的 fastgit 版本。另外替换格式不完全相同，自行搜索。
 
-> https://raw.githubusercontent.com/44451516/XIVSlothCombo/CN/release/pluginmaster.json >https://raw.fastgit.org/44451516/XIVSlothCombo/CN/release/pluginmaster.json
+> https://raw.githubusercontent.com/44451516/XIVSlothCombo/CN/release/pluginmaster.json
+
+>https://raw.fastgit.org/44451516/XIVSlothCombo/CN/release/pluginmaster.json
 
 ### 本地包？
 
@@ -81,7 +87,7 @@ Google，DeepL，有道，QQ 截图翻译等等
 
 检查一下这里 plz
 
-并确定自己保存了。
+并确定自己**保存**了。
 
 再没有，看日志。
 
