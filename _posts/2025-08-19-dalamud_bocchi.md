@@ -19,4 +19,5 @@ NiguangOwO
 - Vnavmesh
 - （YesAlready）
 - lifestream
+- BossMod（Reborn）
 - 任意输出工具
