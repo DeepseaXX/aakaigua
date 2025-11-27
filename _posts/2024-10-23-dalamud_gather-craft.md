@@ -4,7 +4,6 @@ author: AA
 key: 2024-10-23-dalamud_start
 tags: Gua Dalamud Gathering Crafting
 ---
-
 <!--more-->
 
 ## 写在前面
@@ -12,6 +11,12 @@ tags: Gua Dalamud Gathering Crafting
 以下全部是挂！！脚本！！！
 
 请各位像个人！！！！
+
+## 月球重建
+
+请直接 `Ice's Cosmic Exploration`然后进行自我摸索
+
+库： `https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.json`
 
 ## AntiAfkKick - 防 T
 
@@ -31,9 +36,9 @@ tags: Gua Dalamud Gathering Crafting
 
 在 GatherBuddy 的基础上增加了自动化功能。需要 Vnavmesh(同库有)，建议配合 Artisan 生成列表。
 
-国内`https://gh.atmoomen.top/DalamudPlugins/main/pluginmaster-cn.json`
+国内 `https://gh.atmoomen.top/DalamudPlugins/main/pluginmaster-cn.json`
 
-国际`https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json`
+国际 `https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json`
 
 ### 相关阅读
 
@@ -73,8 +78,8 @@ tags: Gua Dalamud Gathering Crafting
 
 ## Daily Routines - 自动化理符等
 
-国内`https://gh.atmoomen.top/DalamudPlugins/main/pluginmaster-cn.json`
-国际`https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json`
+国内 `https://gh.atmoomen.top/DalamudPlugins/main/pluginmaster-cn.json`
+国际 `https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json`
 
 ## AutoRetainer - 自动雇员
 
