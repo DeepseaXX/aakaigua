@@ -1,14 +1,12 @@
 ---
 title: 【Dalamud】【Questionable】任务自动化
 author: AA
-key: 2025-03-12-soil
+key: 2025-11-27-questionable
 tags: Gua Dalamud
 ---
 玩游戏变成看游戏玩自己
 
 `<!--more-->`
-
-
 
 ## 适用于
 
