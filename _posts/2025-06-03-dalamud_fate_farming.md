@@ -4,7 +4,6 @@ author: AA
 key: 2025-06-03-dalamud_fate_farming
 tags: Gua Dalamud Fate
 ---
-
 <!--more-->
 
 ## FATE Farming
@@ -12,6 +11,7 @@ tags: Gua Dalamud Fate
 字面意思，农FATE工具
 
 ### 需要前置：
+
 - 执行自动化lua脚本的框架[Something Need Doing](https://github.com/Jaksuhn/SomethingNeedDoing)，以下简称SND
 
 `https://puni.sh/api/repository/croizat`
@@ -25,9 +25,7 @@ tags: Gua Dalamud Fate
 `https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json`
 
 - 跳过对话的TextAdvance
-
 - 传送指令化Teleporter
-
 - 切线，小水晶传送的Lifestream
 
 `https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json`
@@ -38,17 +36,16 @@ tags: Gua Dalamud Fate
 
 其他收雇员等
 
-### 本体
+### DR版本
+Daily Routine 完成在线认证后，中搜索“FATE”，找到“自动临危受命”插件，确认前置插件，配置并启动。
 
-（目前为SND版）
+### SND版
 
-适用于国际服的原作者库：[pot0to/pot0to-SND-Scripts: My collection of SND scripts](https://github.com/pot0to/pot0to-SND-Scripts)
+SND版因为本体大重构，导致旧版无法使用，以下仅作参考。
 
-适用于中国服务器的几个改编
+>适用于国际服的原作者库：[pot0to/pot0to-SND-Scripts: My collection of SND scripts](https://github.com/pot0to/pot0to-SND-Scripts)
 
-- 小刺猬版：[RedAsteroid/Fate-Farming-CN: 适配中国服务器客户端的 Fate Farming](https://github.com/RedAsteroid/Fate-Farming-CN?tab=readme-ov-file)
+>适用于中国服务器的改编的小刺猬版：[RedAsteroid/Fate-Farming-CN: 适配中国服务器客户端的 Fate Farming](https://github.com/RedAsteroid/Fate-Farming-CN?tab=readme-ov-file)
 
-**！！！！需要修改设置！！！！**，具体请阅读Readme
+>**！！！！需要修改设置！！！！**，具体请阅读Readme
 
-
-（敬请期待DR版）
