@@ -1,3 +1,27 @@
 /* start custom scss snippet */
 
+/* 1. 稍微缩小文章标题的字号 */
+.layout--articles .item__header {
+  font-size: 1.3rem !important;
+  /* 默认参考值：1.9rem (h2默认大小)。你可以根据喜好微调 */
+}
+
+/* 2. 稍微放大文章简介的字号 */
+.layout--articles .item__description,
+.layout--articles .article__content {
+  font-size: 1rem !important;
+  /* 默认参考值：0.85rem (对应主题的 font-size-sm) */
+}
+
+/* 3. 让各个文章之间的间距更紧凑 */
+.items--divided>.item:not(:first-child) {
+  padding-top: 0.8rem !important;
+  /* 默认参考值：1.5rem (对应主题的 spacers 4) */
+}
+
+.items--divided>.item:not(:last-child) {
+  padding-bottom: 0.8rem !important;
+  /* 默认参考值：1.5rem (对应主题的 spacers 4) */
+}
+
 /* end custom scss snippet */
