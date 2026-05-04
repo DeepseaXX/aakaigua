@@ -1,7 +1,7 @@
 ---
 title: 【dlss】在NVidia APP中强行开启dlss模型选项
 author: AA
-key: 2026-05-05-nvapp-dlss
+key: 2026-05-04-nvapp-dlss
 tags: Fate DLSS
 ---
 
