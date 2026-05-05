@@ -19,9 +19,9 @@ tags: Gua Dalamud Fighting
 
 挂亲信、采集、制作等，虽然角色在动，但是依然判定你为离开状态，不开防 T 的话会被干走。
 
-`https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json`
+ `https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json`
 
-`https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json`
+ `https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json`
 
 ## 自动战斗循环
 
@@ -56,17 +56,17 @@ B站懂哥嘴里，传说中的“吸附式瞬移！”
 
 国服能用的库：
 
-BM：`https://raw.githubusercontent.com/44451516/ffxiv_bossmod/CN/pluginmaster.json`
+BM： `https://raw.githubusercontent.com/44451516/ffxiv_bossmod/CN/pluginmaster.json`
 
-BMR：`https://raw.githubusercontent.com/44451516-ff14/BossmodRebornCN/refs/heads/main/pluginmaster.json`
+BMR： `https://raw.githubusercontent.com/44451516-ff14/BossmodRebornCN/refs/heads/main/pluginmaster.json`
 
 ### NyaDraw - 使用游戏原生特效实现的画图
 
 通过猫猫验证后开箱即用，无需配置。初创阶段如遇到各种问题，请带上详细日志，~~最好~~附带录像去 Discord 反馈。
 
-库：`https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json`
+库： `https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json`
 
-Discord：`https://discord.com/channels/1255182937540919396/1255350055049887774`
+Discord： `https://discord.com/channels/1255182937540919396/1255350055049887774`
 
 ### Kodakku Assist - 带画图功能的触发器
 
@@ -75,7 +75,6 @@ Discord：`https://discord.com/channels/1255182937540919396/1255350055049887774`
 老年作者的Script分享库，包含龙狮和M1S-M4S，7.0俩极神和绝伊甸。
 
 [Karlin-Z/KodakkuAssistScript: A repository for storing scripts written for the Dalamud plugin KodakkuAssist.](https://github.com/Karlin-Z/KodakkuAssistScript)，
-
 
 编写日志和Wiki请见[Home · Karlin-Z/KodakkuAssistScript Wiki](https://github.com/Karlin-Z/KodakkuAssistScript/wiki)
 
@@ -89,9 +88,9 @@ Discord：`https://discord.com/channels/1255182937540919396/1255350055049887774`
 
 国服能用的版本
 
-国内`https://gh.atmoomen.top/DalamudPlugins/main/pluginmaster-cn.json`
+国内 `https://gh.atmoomen.top/DalamudPlugins/main/pluginmaster-cn.json`
 
-国服版本的国际库`https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json`
+国服版本的国际库 `https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json`
 
 建议搭配本人的 Qolbar 配置食用。
 
@@ -107,11 +106,11 @@ H4sIAAAAAAAACqWTQUvDMBiG/8r48BhrmrZLmpse9DIQ9OBBd6ilm8LWjrUrjDGYiA4V3Tx4mVMG3nYQ
 
 #### 远古拼凑思路：
 
-- 跟随队友 或使用 Mappy 的 FateList（地图界面的右键开启）标点后使用 Vnavmesh 寻路到下一个点位
-- 落地输出（可用任何一个输出插件。个人推荐 AE，BM 有路上吸引野怪仇恨之后直接原地下坐骑开打的问题）
-- 躲避黄圈：Bossmod / Bossmod Reborn
-- 结束提醒：ChatAlerts/ACT 触发器
-- 跟随队友
+* 跟随队友 或使用 Mappy 的 FateList（地图界面的右键开启）标点后使用 Vnavmesh 寻路到下一个点位
+* 落地输出（可用任何一个输出插件。个人推荐 AE，BM 有路上吸引野怪仇恨之后直接原地下坐骑开打的问题）
+* 躲避黄圈：Bossmod / Bossmod Reborn
+* 结束提醒：ChatAlerts/ACT 触发器
+* 跟随队友
 
 #### Something Need Doing 实现的基本全自动
 
@@ -121,23 +120,22 @@ H4sIAAAAAAAACqWTQUvDMBiG/8r48BhrmrZLmpse9DIQ9OBBd6ilm8LWjrUrjDGYiA4V3Tx4mVMG3nYQ
 
 请记得 lua 脚本一定要**开启 lua 模式**后再点执行！不然就会在新频发送自己的编程作业。
 
-
 ### Autoduty - 亲信及副本的自动路线规划
 
-`https://puni.sh/api/repository/herc`
+ `https://puni.sh/api/repository/herc`
 
 需要
 
-- vnavmesh 跑路
-- BM/BMR 的 AI 功能躲避伤害
-- 以及任何一个自动输出插件
+* vnavmesh 跑路
+* BM/BMR 的 AI 功能躲避伤害
+* 以及任何一个自动输出插件
 
 #### Tips
 
-- Trust=亲信（就是会被拂晓卡等级的那个）
-- Support=副本辅助器
-- 如果路径是灰色看 Paths 是否下载成功
-- 灿烂神域除了老一老二两个击退机制，其他搭配 BM/BMR 可完美运行
+* Trust=亲信（就是会被拂晓卡等级的那个）
+* Support=副本辅助器
+* 如果路径是灰色看 Paths 是否下载成功
+* 灿烂神域除了老一老二两个击退机制，其他搭配 BM/BMR 可完美运行
 
 ## 功能性
 
@@ -150,11 +148,11 @@ H4sIAAAAAAAACqWTQUvDMBiG/8r48BhrmrZLmpse9DIQ9OBBd6ilm8LWjrUrjDGYiA4V3Tx4mVMG3nYQ
 
 ### Gearsetter - 自动最强装备
 
-`https://plugins.carvel.li/`
+ `https://plugins.carvel.li/`
 
 ### Deliveroo - 自动交军票
 
-`https://plugins.carvel.li/`
+ `https://plugins.carvel.li/`
 
 ### Waymark Present - 标点存储/放置
 
@@ -173,16 +171,16 @@ https://nga.178.com/read.php?tid=39468696&fav=:FF3CFBCDB
 
 类似的有很多。比如我自己用的是 Simple Tweaks 的“roll 完一个物品自动跳转到下一个”。
 
-库：`https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json`
+库： `https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json`
 
 ### FuckAnimationLock - 三插
 
-`https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json`
+ `https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json`
 
 ### FF Logs Viewer (CN) - 游戏内出警
 
-`https://raw.githubusercontent.com/NukoOoOoOoO/DalamudPlugins/dev/pluginmaster.json`
+ `https://raw.githubusercontent.com/NukoOoOoOoO/DalamudPlugins/dev/pluginmaster.json`
 
 ### Something Need Doing - 功能更强的宏
 
-`https://raw.githubusercontent.com/WorkingRobot/MyDalamudPlugins/main/plogon.json`
+ `https://raw.githubusercontent.com/WorkingRobot/MyDalamudPlugins/main/plogon.json`

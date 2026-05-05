@@ -13,23 +13,23 @@ tags: WaymarkPresent Waymark Gua Dalamud
 
 ## 一键跳转
 
-- [P9S-P12S](#912)
-- [幻鬼神](#hgs)
-- [极高贝扎](#jgbz)
+* [P9S-P12S](#912)
+* [幻鬼神](#hgs)
+* [极高贝扎](#jgbz)
 
 ## 当前版本省流 6.4 已更新
 
-- 极高被炸 树歌版本 二陨石逃课
-- 机高被炸 MM+W 强化四风逃课
+* 极高被炸 树歌版本 二陨石逃课
+* 机高被炸 MM+W 强化四风逃课
 
-- 幻鬼神
+* 幻鬼神
 
-- P9S 树歌
-- P9S spjp 苏帕酱噗 game8 改
-- P10S 同上 game8 改
-- P11S 同上 game8 改
-- P12S 门神 果子
-- P12S 本体 果子评论引路 NOCCHH
+* P9S 树歌
+* P9S spjp 苏帕酱噗 game8 改
+* P10S 同上 game8 改
+* P11S 同上 game8 改
+* P12S 门神 果子
+* P12S 本体 果子评论引路 NOCCHH
 
 本文需使用卫月中 Waymark Present 插件进行标点的存储和标记，需要请阅读
 
@@ -48,7 +48,7 @@ tags: WaymarkPresent Waymark Gua Dalamud
 
 #### [【FF14】欧米茄绝境验证战-绝欧米茄攻略（上篇）-莫古力攻略组\_最终幻想 14](https://www.bilibili.com/video/BV1Fk4y1n7MD/?spm_id_from=333.337.search-card.all.click)
 
-莫古力视频简介中给出的标点配置文件.DAT 中导出的，完全一致一点没动（顺便导出了他那里面的其他标点补充在下面）
+莫古力视频简介中给出的标点配置文件. DAT 中导出的，完全一致一点没动（顺便导出了他那里面的其他标点补充在下面）
 
 ```
 {"Name":"绝欧-莫古力导入(4A1)","MapID":908,"A":{"X":100.0,"Y":0.0,"Z":86.989,"ID":0,"Active":true},"B":{"X":113.01,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":113.01,"ID":2,"Active":true},"D":{"X":86.989,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":109.199,"Y":0.0,"Z":90.8,"ID":4,"Active":true},"Two":{"X":109.199,"Y":0.0,"Z":109.199,"ID":5,"Active":true},"Three":{"X":90.8,"Y":0.0,"Z":109.199,"ID":6,"Active":true},"Four":{"X":90.8,"Y":0.0,"Z":90.8,"ID":7,"Active":true}}

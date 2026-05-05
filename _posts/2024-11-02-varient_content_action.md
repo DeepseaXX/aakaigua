@@ -25,17 +25,16 @@ Autoduty 中六根山的 12 号路线 估计需要 rsr 才能精准控制点灯�
 
 4 号路线中输出工具不带打断的话也会失败。
 
-
 ## 使用方法
 
-- 把下面代码粘贴进 SomethingNeedDoing
-- 开启 Lua 模式！！！！
-- 开启 Lua 模式！！！！
-- 开启 Lua 模式！！！！
-- 根据自己的多变技能槽位设置开头的参数 游戏界面上左边是 2 右边是 1
-- 根据需求修改其他参数
-- 点播放键开始检测，期间会一直检测
-- 点上部 Macro Queue 右侧的方块键停止
+* 把下面代码粘贴进 SomethingNeedDoing
+* 开启 Lua 模式！！！！
+* 开启 Lua 模式！！！！
+* 开启 Lua 模式！！！！
+* 根据自己的多变技能槽位设置开头的参数 游戏界面上左边是 2 右边是 1
+* 根据需求修改其他参数
+* 点播放键开始检测，期间会一直检测
+* 点上部 Macro Queue 右侧的方块键停止
 
 ```lua
 --[[
@@ -54,7 +53,6 @@ VarientHeal = 1
 VarientHealBelow=70
 -- 检测的时间间隔
 VarientCheck=2
-
 
 function UseVarientHeal()
     for i = 1, 10 do

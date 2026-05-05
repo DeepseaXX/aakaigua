@@ -14,7 +14,7 @@ tags: Gua Dalamud Gathering Crafting
 
 ## 月球重建
 
-请直接 `Ice's Cosmic Exploration`然后进行自我摸索
+请直接 `Ice's Cosmic Exploration` 然后进行自我摸索
 
 库： `https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.json`
 
@@ -22,9 +22,9 @@ tags: Gua Dalamud Gathering Crafting
 
 挂亲信、采集、制作等，虽然角色在动，但是依然判定你为离开状态，不开防 T 的话会被干走。
 
-`https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json`
+ `https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json`
 
-`https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json`
+ `https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json`
 
 ## GatherBuddy - 采集列表
 
@@ -52,7 +52,7 @@ tags: Gua Dalamud Gathering Crafting
 
 ## Artisan - 自动制作
 
-`https://love.puni.sh/ment.json`
+ `https://love.puni.sh/ment.json`
 
 设置一个自动制作列表之后，计算所需材料并生成 Teamcraft 格式的列表，可导入 Gatherbuddy。（参考军团筹备那篇）
 
@@ -70,7 +70,7 @@ tags: Gua Dalamud Gathering Crafting
 
 支持根据鱼名自动生成配置，支持在线下载其他人分享的预设（比如 Ocean 什么什么是海钓用的），但是海钓还是更推荐空天姬。
 
-`https://love.puni.sh/ment.json`
+ `https://love.puni.sh/ment.json`
 
 ## 【非卫月！】钓鱼（鱼王冲分海钓推荐）act 触发器空天姬
 
@@ -79,22 +79,23 @@ tags: Gua Dalamud Gathering Crafting
 ## Daily Routines - 自动化理符等
 
 国内 `https://gh.atmoomen.top/DalamudPlugins/main/pluginmaster-cn.json`
+
 国际 `https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json`
 
 ## AutoRetainer - 自动雇员
 
-`https://love.puni.sh/ment.json`
+ `https://love.puni.sh/ment.json`
 
 ## Something Need Doing - 功能更强的宏
 
-`https://raw.githubusercontent.com/WorkingRobot/MyDalamudPlugins/main/plogon.json`
+ `https://raw.githubusercontent.com/WorkingRobot/MyDalamudPlugins/main/plogon.json`
 
 ## Daily Routines - 强大自动化合集
 
 比如理符？
 
-`https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json`
+ `https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json`
 
 ## Marketbuddy - 更便捷的压价改价上架市场工具
 
-汉化库：`https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.json`
+汉化库： `https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.json`

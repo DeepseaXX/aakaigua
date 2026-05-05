@@ -24,7 +24,7 @@ Discord: `https://discord.com/channels/1108382171099566150/1108779292038529164`
 （已被 ban）
 能够帮你筛选还没对战过/收集完毕的 NPC，并且结合主库的幻卡轮椅完成自动化！
 
-`https://love.puni.sh/ment.json`
+ `https://love.puni.sh/ment.json`
 
 ## Daily Routines - 人畜无害小工具和底裤爆炸大工具合集
 
@@ -36,9 +36,9 @@ Discord: `https://discord.com/channels/1108382171099566150/1108779292038529164`
 
 ## Questionable - 自动任务 包括蛮族，节日，主线，支线等
 
-`https://plugins.carvel.li/`
+ `https://plugins.carvel.li/`
 
-`/qst`唤出操作界面，可以试试接了任务之后点开始。
+`/qst` 唤出操作界面，可以试试接了任务之后点开始。
 
 需要的前置：vnavmesh（寻路）、TextAdvance（跳过动画和对话）、Lifestream（方便快捷的小水晶城内传送与换线跨服等）
 

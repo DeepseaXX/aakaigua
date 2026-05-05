@@ -22,13 +22,13 @@ XIVLauncher（简写为 XL）是用于最终幻想 14 的一个多功能启动�
 
 FF14 原版启动器已经很老了，这导致它运行缓慢且不支持保存密码。 这个项目旨在解决以上的问题，并在游戏中添加一些能够提高游戏体验的功能，例如：
 
-- 自动登录
-- 快速更新
-- Discord Rich Presence
-- 快捷市场价格查询
-- 聊天信息过滤
-- Discord 消息转发
-- Discord 通知（副本匹配、雇员销售等）
+* 自动登录
+* 快速更新
+* Discord Rich Presence
+* 快捷市场价格查询
+* 聊天信息过滤
+* Discord 消息转发
+* Discord 通知（副本匹配、雇员销售等）
 
 ### 如何安装
 
@@ -70,8 +70,8 @@ Tips：可以设置自启动 ACT
 
 游戏内按 ESC, 会看到如下窗口，
 
-- 插件中心：可以查看当前已安装的插件以及打开各插件设置
-- 卫月设置：可设置各种所需参数
+* 插件中心：可以查看当前已安装的插件以及打开各插件设置
+* 卫月设置：可设置各种所需参数
 
 ![](/assets/images/2024-10-23-dalamud_start_2024-10-23-22-03-08.png)
 
@@ -96,20 +96,20 @@ mod，幻化，日常增益，战斗增强，生产采集，自动化 Fate 亲�
 
 （待施工，结束前请自己看归档页面）
 
-- [归档 - AAKaiGua](/archive.html)
-- [各种疑难杂症，问题请见](/2024/09/30/dalamud_main.html)
-- [【立本挂友的便利插件总结】Dalamud 插件目录 - AAKaiGua](/2024/10/09/dalamud_catalogue.html)
-- [Dalamud 卫月战斗系列 - AAKaiGua](/2024/10/23/dalamud_fight.html)
-- [Dalamud 卫月采集制作系列 - AAKaiGua](/2024/10/23/dalamud_gather-craft.html)
-- [Dalamud 的 Mod 相关 - AAKaiGua](/2024/10/23/dalamud_mod.html)
-- [Dalamud 卫月无底裤 被绿玩看见直接莫迪翁系列 - AAKaiGua](/2024/10/23/dalamud_no_pants.html)
+* [归档 - AAKaiGua](/archive.html)
+* [各种疑难杂症，问题请见](/2024/09/30/dalamud_main.html)
+* [【立本挂友的便利插件总结】Dalamud 插件目录 - AAKaiGua](/2024/10/09/dalamud_catalogue.html)
+* [Dalamud 卫月战斗系列 - AAKaiGua](/2024/10/23/dalamud_fight.html)
+* [Dalamud 卫月采集制作系列 - AAKaiGua](/2024/10/23/dalamud_gather-craft.html)
+* [Dalamud 的 Mod 相关 - AAKaiGua](/2024/10/23/dalamud_mod.html)
+* [Dalamud 卫月无底裤 被绿玩看见直接莫迪翁系列 - AAKaiGua](/2024/10/23/dalamud_no_pants.html)
 
-- 底线爆炸但是又不怎么爆炸的第三方库小小梦魇介绍：[卫月仓库链接整理 - 小小梦魇的博客 LittleNightmare Blog](https://blog.littlenightmare.top/2021/05/18/%E5%8D%AB%E6%9C%88%E4%BB%93%E5%BA%93%E9%93%BE%E6%8E%A5/)
-- 外挂名搜挂网[XIV Plugins](https://xivplugins.com/)
-- 介绍了很多底线爆炸挂和加载本地文件等等适合上不去 github 宝宝体质的解决方法 [-柒染凌-的个人空间\_哔哩哔哩\_bilibili](https://space.bilibili.com/32799123)
-- [日本小小梦魇](https://toramemoblog.com/category/tools)（配合机翻食用）
-- [【腾讯文档】第三方库分享整理](https://docs.qq.com/sheet/DTUNHcndzeVNuZUZo?scene=5b09bb418ab4cc4947fccc715IOlq1&tab=000002)
-- [【腾讯文档】卫月及国服 ACT 使用指南(6.5)-裤子篇](https://docs.qq.com/doc/DUXFPQktvd3dmbUdl)
+* 底线爆炸但是又不怎么爆炸的第三方库小小梦魇介绍：[卫月仓库链接整理 - 小小梦魇的博客 LittleNightmare Blog](https://blog.littlenightmare.top/2021/05/18/%E5%8D%AB%E6%9C%88%E4%BB%93%E5%BA%93%E9%93%BE%E6%8E%A5/)
+* 外挂名搜挂网[XIV Plugins](https://xivplugins.com/)
+* 介绍了很多底线爆炸挂和加载本地文件等等适合上不去 github 宝宝体质的解决方法 [-柒染凌-的个人空间\_哔哩哔哩\_bilibili](https://space.bilibili.com/32799123)
+* [日本小小梦魇](https://toramemoblog.com/category/tools)（配合机翻食用）
+* [【腾讯文档】第三方库分享整理](https://docs.qq.com/sheet/DTUNHcndzeVNuZUZo?scene=5b09bb418ab4cc4947fccc715IOlq1&tab=000002)
+* [【腾讯文档】卫月及国服 ACT 使用指南(6.5)-裤子篇](https://docs.qq.com/doc/DUXFPQktvd3dmbUdl)
 
 【关于魔法 微软商店下载 watt toolkit；win7 系统自行寻找代理或者其他付费魔法】
 

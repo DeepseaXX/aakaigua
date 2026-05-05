@@ -19,7 +19,7 @@ tags: Gua Dalamud
 
 ## 写在前面的后面：看日志的方法
 
-在游戏里输入`/xllog`，在游戏外找到卫月本地目录的 `dalamud.log`。
+在游戏里输入 `/xllog` ，在游戏外找到卫月本地目录的 `dalamud.log` 。
 
 没有日志和清晰大截图，除了赛博老中医谁也没法解决你的问题！！！！！
 
@@ -61,7 +61,7 @@ DS1H4sIAAAAAAAACqVY3VPjNhD/Vxg/tTMMI8uyZeWNQDk6c3SYg/aufTOJSFxMnDoOxx1z/3v1sSvJs
 
 > https://raw.githubusercontent.com/44451516/XIVSlothCombo/CN/release/pluginmaster.json
 
->https://raw.fastgit.org/44451516/XIVSlothCombo/CN/release/pluginmaster.json
+> https://raw.fastgit.org/44451516/XIVSlothCombo/CN/release/pluginmaster.json
 
 ### 本地包？
 
@@ -101,9 +101,9 @@ Google，DeepL，有道，QQ 截图翻译等等
 
 ### Rotation Solver 为什么司马
 
-`Rotation Solver` 就是`Auto Action`，又叫`Auto Attack`的原主作者司马转生产物。关于这个故事请参见上一条或者相关阅读：[NiGuangOwO/-](https://github.com/NiGuangOwO/-)
+`Rotation Solver` 就是 `Auto Action` ，又叫 `Auto Attack` 的原主作者司马转生产物。关于这个故事请参见上一条或者相关阅读：[NiGuangOwO/-](https://github.com/NiGuangOwO/-)
 
-非要使用请选择去除了 40% 冗余代码的 `Rotation Solver Reborn`，或`AEAssistv3`谢谢喵。
+非要使用请选择去除了 40% 冗余代码的 `Rotation Solver Reborn` ，或 `AEAssistv3` 谢谢喵。
 
 #### 上古手搓替代品？Sloth Combo+Something need doing
 
@@ -117,7 +117,7 @@ https://raw.fastgit.org/44451516/XIVSlothCombo/CN/release/pluginmaster.json
 
 在国服和国际服版本同步的时候 daemitus 库直接能下，不同步的时候 CN 分支。库见小小梦魇。
 
-举例：这个宏可以无限循环以 0.28 秒间隔按下 1 键。`/pcraft run 宏名 启动`，`/pcraft stop 停止`。
+举例：这个宏可以无限循环以 0.28 秒间隔按下 1 键。 `/pcraft run 宏名 启动` ， `/pcraft stop 停止` 。
 
 ```
 /send KEY_1 <wait.0.28>
@@ -131,7 +131,7 @@ DR
 ### 此插件年代过于久远 blablah 反正要卸载但是不让卸载怎么办？
 
 绿色方法：关游戏，找到本地目录，删除，开游戏
-开挂方法：用下面的库，`UnloadErrorFuckOff`，用`/fuckoff` 之后直接点击卸载
+开挂方法：用下面的库， `UnloadErrorFuckOff` ，用 `/fuckoff` 之后直接点击卸载
 https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json
 
 ### json 文件怎么打开阿？
@@ -140,7 +140,7 @@ json 文件，和 txt 文件一样，都是文本文档，最简单的方法用*
 
 ### 他们视频里打本地上有范围，怎么弄
 
-`NyaDraw`或`Splatoon`，被 ban 的话自己找 unban，我不开，不打高难，不知道。
+`NyaDraw` 或 `Splatoon` ，被 ban 的话自己找 unban，我不开，不打高难，不知道。
 
 ### What is Unban?
 
@@ -150,7 +150,7 @@ Maybe you can google "NightmareXIV / UnbanPluginsCN".
 
 ### 侧边雷达小窗的范围提示/自动躲黄圈跑机制/Fate 跑机制/灿烂神域半自动
 
-侧边雷达小窗的范围提示是`Boss Mod`或者由`Boss Mod Reborn`。自带这两家作者/团队之间有矛盾，功能互有高低，建议是都装上试试。
+侧边雷达小窗的范围提示是 `Boss Mod` 或者由 `Boss Mod Reborn` 。自带这两家作者/团队之间有矛盾，功能互有高低，建议是都装上试试。
 
 基本的黄圈不需要适配也可以躲，部分特殊机制需要特殊的适配，不一定有。部分没适配的副本开启了 AI 功能会跳崖，慎用。
 
@@ -158,8 +158,8 @@ Maybe you can google "NightmareXIV / UnbanPluginsCN".
 
 ### 他们让我改 Api 版本，怎么改阿？/远古挂爆炸了但是听说改 api 版本能用怎么办啊？
 
-首先找到你卫月本地位置，蓝月亮（红月亮结构差不多自己找找）的话，在”`Dalamud\XIVLauncherCN\Roaming\installedPlugins`“下，有你用正常方法安装的插件本体。如果是本地就 `devplugins`。打开你需要修改的文件夹，内部找到“插件名.json”并打开（不会打开前面找找如何打开 json），找到
-"`DalamudApiLevel`": ，将后面的数字+1。通常情况下是+1，但是有跨越版本的千年老挂的情况，那样就自己改成对应版本（比如现在游戏 6.3 对应 api8）。最后，挪到 `devplugin`（无论以前在哪），并走一遍加载本地插件的流程。
+首先找到你卫月本地位置，蓝月亮（红月亮结构差不多自己找找）的话，在” `Dalamud\XIVLauncherCN\Roaming\installedPlugins` “下，有你用正常方法安装的插件本体。如果是本地就 `devplugins` 。打开你需要修改的文件夹，内部找到“插件名.json”并打开（不会打开前面找找如何打开 json），找到
+" `DalamudApiLevel` ": ，将后面的数字+1。通常情况下是+1，但是有跨越版本的千年老挂的情况，那样就自己改成对应版本（比如现在游戏 6.3 对应 api8）。最后，挪到 `devplugin` （无论以前在哪），并走一遍加载本地插件的流程。
 
 ### 我要上月球
 
@@ -183,14 +183,14 @@ pu 门等，库非公开，导致无法浏览 history 的不适合此方法。
 
 ### 蓝月亮和红月亮
 
-- 蓝月亮是啥？
+* 蓝月亮是啥？
   盛趣游戏登陆器（扫码一次免密一周）、游戏更新器、卫月注入器、同时拉起其他外挂器的高级玩意
-- 红月亮是啥？
+* 红月亮是啥？
   俗称拉屎器，原地拉屎，原地更新，直接注入的粗暴玩意
 
 ### 我想改用蓝/红月亮，我怎么把我现在的配置带过去阿？
 
-找到 Dalamud\XIVLauncherCN\Roaming （或者长差不多的）文件夹，把 `dalamudUI.ini`，`dalamudConfig.json` `pluginConfigs` `installedPlugins （devPlugins）`等所有长得像配置的都带走谢谢喵。（没有就无视）
+找到 Dalamud\XIVLauncherCN\Roaming （或者长差不多的）文件夹，把 `dalamudUI.ini` ， `dalamudConfig.json`  `pluginConfigs`  `installedPlugins （devPlugins）` 等所有长得像配置的都带走谢谢喵。（没有就无视）
 
 或者用胖鸟的 ACT 配置迁移（软连接）助手。https://github.com/MapleRecall/ACT.Dalamud.Updater/releases
 
@@ -214,50 +214,51 @@ Penumbra 设置还是卫月设置忘了，有一个等插件加载完毕后再�
 
 如果我说了 puni.sh 就是这个（俗称 pu 门）
 
-`https://love.puni.sh/ment.json`
+ `https://love.puni.sh/ment.json`
 
 pu 门其他分支
 
 veyn（vnavmesh 原版）
 
-`https://puni.sh/api/repository/veyn`
+ `https://puni.sh/api/repository/veyn`
 
 autoduty
 
-`https://puni.sh/api/repository/herc`
+ `https://puni.sh/api/repository/herc`
 
 veyn 自己的
 
-`https://github.com/awgil/ffxiv_plugin_distribution/raw/master/pluginmaster.json`
+ `https://github.com/awgil/ffxiv_plugin_distribution/raw/master/pluginmaster.json`
 
 如果我说了 niguang （逆光）就是这个
 
-`https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json`
+ `https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json`
 
 如果我说了初春就是这个
 
-`https://raw.githubusercontent.com/uiharuayako/DalamudPlugins/main/pluginmaster.json`
+ `https://raw.githubusercontent.com/uiharuayako/DalamudPlugins/main/pluginmaster.json`
 
 如果我说了 gamous 就是这个
 
-`https://raw.githubusercontent.com/gamous/DalamudPluginsCN-Dev/main/MordionGaol.json`
+ `https://raw.githubusercontent.com/gamous/DalamudPluginsCN-Dev/main/MordionGaol.json`
 
 moewcorp
 
-`https://raw.githubusercontent.com/moewcorp/DalamudPlugins/main/pluginmaster.json`
+ `https://raw.githubusercontent.com/moewcorp/DalamudPlugins/main/pluginmaster.json`
 
 獭三方，包括但不限于 Penumbra Glamourer Mare
 
-`https://dalamud_cn_3rd.otters.cloud/plugins/Mare`
+ `https://dalamud_cn_3rd.otters.cloud/plugins/Mare`
 
-`https://dalamud_cn_3rd.otters.cloud/plugins/Penumbra`
+ `https://dalamud_cn_3rd.otters.cloud/plugins/Penumbra`
 
-`https://dalamud_cn_3rd.otters.cloud/plugins/Glamourer`
+ `https://dalamud_cn_3rd.otters.cloud/plugins/Glamourer`
 
-`https://dalamud_cn_3rd.otters.cloud/plugins/all`
+ `https://dalamud_cn_3rd.otters.cloud/plugins/all`
 
 Reborn 团队
-`https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json`
+ `https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json`
+
 忘了，见过，但是忘了
 
 ```
@@ -272,36 +273,37 @@ https://github.com/NightmareXIV/MyDalamudPlugins/raw/main/pluginmaster_experimen
 
 那个 Material UI 的
 
-`https://raw.githubusercontent.com/Sevii77/ffxiv_materialui_accent/master/repo.json`
+ `https://raw.githubusercontent.com/Sevii77/ffxiv_materialui_accent/master/repo.json`
 
 某个梦魇
 
-`https://raw.githubusercontent.com/LittleNightmare/MyDalamudPlugins/main/repo.json`
+ `https://raw.githubusercontent.com/LittleNightmare/MyDalamudPlugins/main/repo.json`
 
 哈哈牙刷
 
-`https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json`
+ `https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json`
 
 daemitus
 
-`https://raw.githubusercontet.com/daemitus/MyDalamudPlugins/CN/pluginmaster.json`
+ `https://raw.githubusercontet.com/daemitus/MyDalamudPlugins/CN/pluginmaster.json`
 
 Karlin K 佬！
 
-`https://raw.githubusercontent.com/Karlin-Z/DalamudPlugins/Api4/pluginmaster.json`
+ `https://raw.githubusercontent.com/Karlin-Z/DalamudPlugins/Api4/pluginmaster.json`
 
 dr，atmosphere 门(还有一个国外用的来着)
 
-国内`https://gh.atmoomen.top/DalamudPlugins/main/pluginmaster-cn.json`
-国际`https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json`
+国内 `https://gh.atmoomen.top/DalamudPlugins/main/pluginmaster-cn.json`
+
+国际 `https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json`
 
 4679
 
-`https://raw.githubusercontent.com/4679/DalamudPlugins/main/repo.json`
+ `https://raw.githubusercontent.com/4679/DalamudPlugins/main/repo.json`
 
 Errer！
 
-`https://gitea.com/Errer/NekohackAuth/raw/branch/main/pluginmaster.json`
+ `https://gitea.com/Errer/NekohackAuth/raw/branch/main/pluginmaster.json`
 
 Yarukon
-`https://github.com/Yarukon/Ktisis/raw/main/repo.json`
+ `https://github.com/Yarukon/Ktisis/raw/main/repo.json`
