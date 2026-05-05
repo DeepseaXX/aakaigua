@@ -37,6 +37,13 @@ tags: Fate DLSS
 
 更新：无论哪个模型，~~DLSS优设 - 超分辨率模式~~强制开启DLAA之后会出现非常强烈的全屏锯齿抖动，不建议开启，使用默认 `使用3D应用程序设置` 即可。
 
+### 那我要不是N卡呢？
+
+请使用DLSS Mod，可以替换成XeSS或FSR。
+
+* [nexus站 DLSS Mod 下载地址](https://www.nexusmods.com/finalfantasy14/mods/2196?tab=description)
+* [其他 DLSS Mod 中文教程](https://www.bilibili.com/opus/981581592623316993)：
+
 ## 具体步骤
 
 有点计算机基础的想持久化且懒得当织布工人的可以在理解了的基础上直接去看自动化脚本流程，如果看不太懂那个脚本在干嘛可以自己手动执行一遍理解流程。自动化只是省去了自己动手的过程，操作是一样的。
@@ -45,7 +52,7 @@ tags: Fate DLSS
 
 1. 进入路径 `%LocalAppData%\NVIDIA Corporation\NVIDIA App\NvBackend`
 2. 在文件夹中找到 ApplicationStorage.json，建议先备份一份，然后使用记事本或代码编辑器打开。
-3. 搜索目标字段在文件中搜索关键词 `final fantasy`，或 `ffxiv` 。（此时你可以看到应该定位到了附近有 `"DisplayName": "Final Fantasy XIV - DX9"`,  `"ShortName": "final_fantasy_xiv_kr"`，还有路径中有 `上海XX科技有限公司`字样）~~（别问为什么是DX9，为什么是kr，我也不知道）~~
+3. 搜索目标字段在文件中搜索关键词 `final fantasy`，或 `ffxiv` 。（此时你可以看到应该定位到了附近有 `"DisplayName": "Final Fantasy XIV - DX9"`,    `"ShortName": "final_fantasy_xiv_kr"`，还有路径中有 `上海XX科技有限公司`字样）~~（别问为什么是DX9，为什么是kr，我也不知道）~~
 4. 找到该项目后，将其下方的以下几项全部改为 false（确保引号后的值为 false）：
 
 * "Disable_FG_Override": false
