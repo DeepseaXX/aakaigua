@@ -1,5 +1,5 @@
 ---
-title: 【Dalamud卫月】【必装小工具】泛用性很强的无法分类的几乎必装小工具
+title: 【Dalamud 卫月】【必装小工具】泛用性很强的无法分类的几乎必装小工具
 author: AA
 key: 2024-10-24-dalamud_tweaks
 tags: Gua Dalamud
@@ -11,19 +11,19 @@ tags: Gua Dalamud
 
 <!--more-->
 
-欢迎前往[讨论页面](https://github.com/DeepseaXX/aakaigua/discussions)参与讨论。
+欢迎前往 [讨论页面](https://github.com/DeepseaXX/aakaigua/discussions) 参与讨论。
 
 ## HaselTweaks（很多好用的）
 
  `https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/repo.json`
 
-功能有点杂，偷一下[日本小小梦魇的文章](https://toramemoblog.com/haseltweaks)翻译一下。
+功能有点杂，偷一下 [日本小小梦魇的文章](https://toramemoblog.com/haseltweaks) 翻译一下。
 
 这文章里也介绍了很多使用方法，请结合机翻食用。
 
 * Aether Current Helper 收集风脉辅助
-* (2023/01/26 更新)Auto Sorter 自动整理雇员
-* (2023/09/10 追記)Background Music Keybind 快速开关 BGM 的快捷指令
+* (2023/01/26 更新）Auto Sorter 自动整理雇员
+* (2023/09/10 追記）Background Music Keybind 快速开关 BGM 的快捷指令
 * Character Class Switcher 从自己的角色面板快速换职业
 * Commands 发送物品链接，查看别人正在骑的坐骑
 * Custom Chat Timestamp 自定义聊天栏的时间样式

@@ -1,5 +1,5 @@
 ---
-title: 【Dalamud卫月】【Mod】专项推荐
+title: 【Dalamud 卫月】【Mod】专项推荐
 author: AA
 key: 2024-10-23-dalamud_mod
 tags: Gua Dalamud mod
@@ -9,7 +9,7 @@ tags: Gua Dalamud mod
 
 ## 写在前面
 
-死了吗的一部分黄玩，觉得自己只是“打打mod~搞搞黄色~不算开挂~~”的都给我死远点，不需要自己在那又开又立牌坊。
+死了吗的一部分黄玩，觉得自己只是“打打 mod~搞搞黄色~不算开挂~~”的都给我死远点，不需要自己在那又开又立牌坊。
 <!--more-->
 我不怎么玩 mod，对我来说我 mod 只有修改一下狩猎地图，还有一些功能性 mod 这样子……
 

@@ -1,5 +1,5 @@
 ---
-title: 【截至6.4】【Waymark Present】标点合集
+title: 【截至 6.4】【Waymark Present】标点合集
 author: AA
 key: 2024-10-06-waymark_present
 tags: WaymarkPresent Waymark Gua Dalamud
@@ -7,7 +7,7 @@ tags: WaymarkPresent Waymark Gua Dalamud
 
 ## 写在前面！！！！！！！！
 
-本文是上古时期的个人整理，以及 6.0 本人不打高难之后的云标点合集（参考国际服或者国服几个我认为是主流的攻略），会有跟当前国服主流版本脱节的情况。如果你有意见或建议，欢迎前往[讨论页面](https://github.com/DeepseaXX/aakaigua/discussions)参与讨论，或分享你的配置。
+本文是上古时期的个人整理，以及 6.0 本人不打高难之后的云标点合集（参考国际服或者国服几个我认为是主流的攻略），会有跟当前国服主流版本脱节的情况。如果你有意见或建议，欢迎前往 [讨论页面](https://github.com/DeepseaXX/aakaigua/discussions) 参与讨论，或分享你的配置。
 
 <!--more-->
 
@@ -39,19 +39,19 @@ tags: WaymarkPresent Waymark Gua Dalamud
 
 部分参考来源以及友链：
 
-[【国人整理，三格式，截止钻石神兵】【腾讯文档】FF14 标点大全(更新钻石神兵)](https://docs.qq.com/sheet/DY0ttR2xQT1Vjc2V4)
+[【国人整理，三格式，截止钻石神兵】【腾讯文档】FF14 标点大全（更新钻石神兵）](https://docs.qq.com/sheet/DY0ttR2xQT1Vjc2V4)
 [【卫月插件作者 github，含万魔殿零式，基本为国际服版本，部分和国服有差异】](https://github.com/Em-Six/FFXIVWaymarkPresets/wiki)
 
 ## 绝
 
 ### 绝元始
 
-#### [【FF14】欧米茄绝境验证战-绝欧米茄攻略（上篇）-莫古力攻略组\_最终幻想 14](https://www.bilibili.com/video/BV1Fk4y1n7MD/?spm_id_from=333.337.search-card.all.click)
+#### [【FF14】欧米茄绝境验证战-绝欧米茄攻略（上篇）-莫古力攻略组、_最终幻想 14](https://www.bilibili.com/video/BV1Fk4y1n7MD/?spm_id_from=333.337.search-card.all.click)
 
-莫古力视频简介中给出的标点配置文件. DAT 中导出的，完全一致一点没动（顺便导出了他那里面的其他标点补充在下面）
+莫古力视频简介中给出的标点配置文件。DAT 中导出的，完全一致一点没动（顺便导出了他那里面的其他标点补充在下面）
 
 ```
-{"Name":"绝欧-莫古力导入(4A1)","MapID":908,"A":{"X":100.0,"Y":0.0,"Z":86.989,"ID":0,"Active":true},"B":{"X":113.01,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":113.01,"ID":2,"Active":true},"D":{"X":86.989,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":109.199,"Y":0.0,"Z":90.8,"ID":4,"Active":true},"Two":{"X":109.199,"Y":0.0,"Z":109.199,"ID":5,"Active":true},"Three":{"X":90.8,"Y":0.0,"Z":109.199,"ID":6,"Active":true},"Four":{"X":90.8,"Y":0.0,"Z":90.8,"ID":7,"Active":true}}
+{"Name":"绝欧-莫古力导入 (4A1)","MapID":908,"A":{"X":100.0,"Y":0.0,"Z":86.989,"ID":0,"Active":true},"B":{"X":113.01,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":113.01,"ID":2,"Active":true},"D":{"X":86.989,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":109.199,"Y":0.0,"Z":90.8,"ID":4,"Active":true},"Two":{"X":109.199,"Y":0.0,"Z":109.199,"ID":5,"Active":true},"Three":{"X":90.8,"Y":0.0,"Z":109.199,"ID":6,"Active":true},"Four":{"X":90.8,"Y":0.0,"Z":90.8,"ID":7,"Active":true}}
 ```
 
 ```
@@ -59,11 +59,11 @@ tags: WaymarkPresent Waymark Gua Dalamud
 ```
 
 ```
-{"Name":"绝龙诗-莫古力导入(P1-1AB2)","MapID":788,"A":{"X":94.265,"Y":0.0,"Z":90.057,"ID":0,"Active":true},"B":{"X":105.559,"Y":0.0,"Z":89.944,"ID":1,"Active":true},"C":{"X":105.687,"Y":0.0,"Z":109.95,"ID":2,"Active":true},"D":{"X":94.363,"Y":0.0,"Z":109.892,"ID":3,"Active":true},"One":{"X":89.994,"Y":0.0,"Z":94.231,"ID":4,"Active":true},"Two":{"X":110.13,"Y":0.0,"Z":94.36,"ID":5,"Active":true},"Three":{"X":110.003,"Y":0.0,"Z":105.871,"ID":6,"Active":true},"Four":{"X":90.049,"Y":0.0,"Z":105.51,"ID":7,"Active":true}}
+{"Name":"绝龙诗-莫古力导入 (P1-1AB2)","MapID":788,"A":{"X":94.265,"Y":0.0,"Z":90.057,"ID":0,"Active":true},"B":{"X":105.559,"Y":0.0,"Z":89.944,"ID":1,"Active":true},"C":{"X":105.687,"Y":0.0,"Z":109.95,"ID":2,"Active":true},"D":{"X":94.363,"Y":0.0,"Z":109.892,"ID":3,"Active":true},"One":{"X":89.994,"Y":0.0,"Z":94.231,"ID":4,"Active":true},"Two":{"X":110.13,"Y":0.0,"Z":94.36,"ID":5,"Active":true},"Three":{"X":110.003,"Y":0.0,"Z":105.871,"ID":6,"Active":true},"Four":{"X":90.049,"Y":0.0,"Z":105.51,"ID":7,"Active":true}}
 ```
 
 ```
-{"Name":"绝龙诗-莫古力导入(P2-4A1)","MapID":788,"A":{"X":100.0,"Y":0.0,"Z":86.8,"ID":0,"Active":true},"B":{"X":113.199,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":113.199,"ID":2,"Active":true},"D":{"X":86.8,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":109.333,"Y":0.0,"Z":90.666,"ID":4,"Active":true},"Two":{"X":109.333,"Y":0.0,"Z":109.333,"ID":5,"Active":true},"Three":{"X":90.666,"Y":0.0,"Z":109.333,"ID":6,"Active":true},"Four":{"X":90.666,"Y":0.0,"Z":90.666,"ID":7,"Active":true}}
+{"Name":"绝龙诗-莫古力导入 (P2-4A1)","MapID":788,"A":{"X":100.0,"Y":0.0,"Z":86.8,"ID":0,"Active":true},"B":{"X":113.199,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":113.199,"ID":2,"Active":true},"D":{"X":86.8,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":109.333,"Y":0.0,"Z":90.666,"ID":4,"Active":true},"Two":{"X":109.333,"Y":0.0,"Z":109.333,"ID":5,"Active":true},"Three":{"X":90.666,"Y":0.0,"Z":109.333,"ID":6,"Active":true},"Four":{"X":90.666,"Y":0.0,"Z":90.666,"ID":7,"Active":true}}
 
 ```
 
@@ -77,7 +77,7 @@ tags: WaymarkPresent Waymark Gua Dalamud
 {"Name":"P1","MapID":788,"A":{"X":110.309,"Y":0.0,"Z":106.038,"ID":0,"Active":true},"B":{"X":105.648,"Y":0.0,"Z":109.914,"ID":1,"Active":true},"C":{"X":94.044,"Y":0.0,"Z":110.043,"ID":2,"Active":true},"D":{"X":90.153,"Y":0.0,"Z":105.558,"ID":3,"Active":true},"One":{"X":90.111,"Y":0.0,"Z":94.176,"ID":4,"Active":true},"Two":{"X":94.48,"Y":0.0,"Z":89.728,"ID":5,"Active":true},"Three":{"X":105.983,"Y":0.0,"Z":90.038,"ID":6,"Active":true},"Four":{"X":110.488,"Y":0.0,"Z":93.605,"ID":7,"Active":true}}
 ```
 
-来源[[攻略心得] [千年龙诗绝境战] 为什么说【13.2 米】标点是绝龙诗的标准答案 NGA 玩家社区](https://ngabbs.com/read.php?tid=31807681&_fu=61958879%2C1&rand=46)
+来源 [[攻略心得] [千年龙诗绝境战] 为什么说【13.2 米】标点是绝龙诗的标准答案 NGA 玩家社区](https://ngabbs.com/read.php?tid=31807681&_fu=61958879%2C1&rand=46)
 
 【P2356(4A1)】
 
@@ -85,7 +85,7 @@ tags: WaymarkPresent Waymark Gua Dalamud
 {"Name": "P2356(4A1)","MapID": 788,"A": {"X": 100.0,"Y": 0.0,"Z": 86.8,"ID": 0,"Active": true},"B": {"X": 113.2,"Y": 0.0,"Z": 100.0,"ID": 1,"Active": true},"C": {"X": 100.0,"Y": 0.0,"Z": 113.2,"ID": 2,"Active": true},"D": {"X": 86.8,"Y": 0.0,"Z": 100.0,"ID": 3,"Active": true},"One": {"X": 109.33380951166242,"Y": 0.0,"Z": 90.66619048833758,"ID": 4,"Active": true},"Two": {"X": 109.33380951166242,"Y": 0.0,"Z": 109.33380951166242,"ID": 5,"Active": true},"Three": {"X": 90.66619048833758,"Y": 0.0,"Z": 109.33380951166242,"ID": 6,"Active": true},"Four": {"X": 90.66619048833758,"Y": 0.0,"Z": 90.66619048833758,"ID": 7,"Active": true}}
 ```
 
-【P2356(1A)对应塔塔露触发器】
+【P2356(1A) 对应塔塔露触发器】
 
 ```
 {"Name": "P2356(1A)","MapID": 788,"A": {"X": 100.0,"Y": 0.0,"Z": 86.8,"ID": 0,"Active": true},"B": {"X": 113.2,"Y": 0.0,"Z": 100.0,"ID": 1,"Active": true},"C": {"X": 100.0,"Y": 0.0,"Z": 113.2,"ID": 2,"Active": true},"D": {"X": 86.8,"Y": 0.0,"Z": 100.0,"ID": 3,"Active": true},"One": {"X": 90.66619048833758,"Y": 0.0,"Z": 90.66619048833758,"ID": 4,"Active": true},"Two": {"X": 109.33380951166242,"Y": 0.0,"Z": 90.66619048833758,"ID": 5,"Active": true},"Three": {"X": 109.333F80951166242,"Y": 0.0,"Z": 109.33380951166242,"ID": 6,"Active": true},"Four": {"X": 90.66619048833758,"Y": 0.0,"Z": 109.33380951166242,"ID": 7,"Active": true}}
@@ -137,11 +137,11 @@ tags: WaymarkPresent Waymark Gua Dalamud
 
 我没云攻略也没打， 也不知道国服主流打法，等确定了之后会更新，所以以下是生搬 and 机翻
 
-能[git 哈布](<https://github.com/Em-Six/FFXIVWaymarkPresets/wiki/Abyssos-(Savage)>)的自取
+能 [git 哈布](<https://github.com/Em-Six/FFXIVWaymarkPresets/wiki/Abyssos-(Savage)>) 的自取
 
 ### 【P5S-子言视频 4A1game8 同款】
 
-[【FF14】6.2 攻略 P5S 零式万魔殿 炼净之狱 1\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1xG4y1f7p7/)
+[【FF14】6.2 攻略 P5S 零式万魔殿 炼净之狱 1\_哔哩哔哩、_bilibili](https://www.bilibili.com/video/BV1xG4y1f7p7/)
 
 ```
 {"Name":"子言","MapID":873,"A":{"X":100.0,"Y":-300.0,"Z":88.0,"ID":0,"Active":true},"B":{"X":112.0,"Y":-300.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.009,"Y":-300.0,"Z":112.0,"ID":2,"Active":true},"D":{"X":88.0,"Y":-300.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":108.0,"Y":-300.0,"Z":92.0,"ID":4,"Active":true},"Two":{"X":108.0,"Y":-300.0,"Z":108.0,"ID":5,"Active":true},"Three":{"X":92.0,"Y":-300.0,"Z":108.0,"ID":6,"Active":true},"Four":{"X":92.0,"Y":-300.0,"Z":92.0,"ID":7,"Active":true}}
@@ -153,7 +153,7 @@ tags: WaymarkPresent Waymark Gua Dalamud
 
 如果有问题再改，建议进本先确认一下
 
-[【FF14】6.2 零式攻略 P6S 万魔殿炼净之狱 2 苦茶子攻略*哔哩哔哩 bilibili*最终幻想 14\_攻略](https://www.bilibili.com/video/BV1P84y1y7dp/)
+[【FF14】6.2 零式攻略 P6S 万魔殿炼净之狱 2 苦茶子攻略*哔哩哔哩 bilibili *最终幻想 14\_攻略](https://www.bilibili.com/video/BV1P84y1y7dp/)
 
 ```
 {"Name":"裤衩子好像","MapID":881,"A":{"X":108.7,"Y":0.0,"Z":91.3,"ID":0,"Active":true},"B":{"X":115.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":108.7,"Y":0.0,"Z":108.7,"ID":2,"Active":true},"D":{"X":105.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":91.3,"Y":0.0,"Z":91.3,"ID":4,"Active":true},"Two":{"X":85.0,"Y":0.0,"Z":100.0,"ID":5,"Active":true},"Three":{"X":91.3,"Y":0.0,"Z":108.7,"ID":6,"Active":true},"Four":{"X":95.0,"Y":0.0,"Z":100.0,"ID":7,"Active":true}}
@@ -163,10 +163,10 @@ tags: WaymarkPresent Waymark Gua Dalamud
 
 攻略参考
 
-[【P6S】万魔殿炼净之狱零式六层 近战无损打法攻略*最终幻想 14*游戏攻略](https://www.bilibili.com/video/BV1RG4y1u78L/)
+[【P6S】万魔殿炼净之狱零式六层 近战无损打法攻略*最终幻想 14 *游戏攻略](https://www.bilibili.com/video/BV1RG4y1u78L/)
 
 ```
-{"Name":"P6S近战Uptime千星流月夜","MapID":881,"A":{"X":100.0,"Y":0.0,"Z":81.3,"ID":0,"Active":true},"B":{"X":91.3,"Y":0.0,"Z":108.7,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":118.7,"ID":2,"Active":true},"D":{"X":108.7,"Y":0.0,"Z":91.3,"ID":3,"Active":true},"One":{"X":98.7,"Y":0.0,"Z":98.7,"ID":4,"Active":true},"Two":{"X":101.3,"Y":0.0,"Z":98.7,"ID":5,"Active":true},"Three":{"X":92.9,"Y":0.0,"Z":92.9,"ID":6,"Active":true},"Four":{"X":107.1,"Y":0.0,"Z":107.1,"ID":7,"Active":true}}
+{"Name":"P6S 近战 Uptime 千星流月夜","MapID":881,"A":{"X":100.0,"Y":0.0,"Z":81.3,"ID":0,"Active":true},"B":{"X":91.3,"Y":0.0,"Z":108.7,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":118.7,"ID":2,"Active":true},"D":{"X":108.7,"Y":0.0,"Z":91.3,"ID":3,"Active":true},"One":{"X":98.7,"Y":0.0,"Z":98.7,"ID":4,"Active":true},"Two":{"X":101.3,"Y":0.0,"Z":98.7,"ID":5,"Active":true},"Three":{"X":92.9,"Y":0.0,"Z":92.9,"ID":6,"Active":true},"Four":{"X":107.1,"Y":0.0,"Z":107.1,"ID":7,"Active":true}}
 ```
 
 ### 【P7S-被窝苦茶子同款-TOS 脑死亡净化】
@@ -177,20 +177,20 @@ tags: WaymarkPresent Waymark Gua Dalamud
 
 （但其实过本之后完全可以标点的，所以纯纯纯净也能做到这样的标点）
 
-[【FF14】万魔殿零式炼净之狱（炼狱之章） 第七层 P7S 被窝国际攻略*哔哩哔哩 bilibili*最终幻想 14](https://www.bilibili.com/video/BV1D14y1A7yb/)
+[【FF14】万魔殿零式炼净之狱（炼狱之章） 第七层 P7S 被窝国际攻略*哔哩哔哩 bilibili *最终幻想 14](https://www.bilibili.com/video/BV1D14y1A7yb/)
 
 ```
-{"Name":"P7S被窝苦茶子底线警告","MapID":877,"A":{"X":114.29,"Y":0.0,"Z":83.0,"ID":0,"Active":true},"B":{"X":121.87,"Y":0.0,"Z":87.38,"ID":1,"Active":true},"C":{"X":121.87,"Y":0.0,"Z":96.13,"ID":2,"Active":true},"D":{"X":114.29,"Y":0.0,"Z":100.5,"ID":3,"Active":true},"One":{"X":85.71,"Y":0.0,"Z":83.0,"ID":4,"Active":true},"Two":{"X":78.13,"Y":0.0,"Z":87.38,"ID":5,"Active":true},"Three":{"X":78.13,"Y":0.0,"Z":96.13,"ID":6,"Active":true},"Four":{"X":85.71,"Y":0.0,"Z":100.5,"ID":7,"Active":true}}
+{"Name":"P7S 被窝苦茶子底线警告","MapID":877,"A":{"X":114.29,"Y":0.0,"Z":83.0,"ID":0,"Active":true},"B":{"X":121.87,"Y":0.0,"Z":87.38,"ID":1,"Active":true},"C":{"X":121.87,"Y":0.0,"Z":96.13,"ID":2,"Active":true},"D":{"X":114.29,"Y":0.0,"Z":100.5,"ID":3,"Active":true},"One":{"X":85.71,"Y":0.0,"Z":83.0,"ID":4,"Active":true},"Two":{"X":78.13,"Y":0.0,"Z":87.38,"ID":5,"Active":true},"Three":{"X":78.13,"Y":0.0,"Z":96.13,"ID":6,"Active":true},"Four":{"X":85.71,"Y":0.0,"Z":100.5,"ID":7,"Active":true}}
 ```
 
 ### 【P8S 门神 game8 果子苦茶子同款】
 
 和 P6S 类似，所有点都相切内边
 
-[【菓子】FF14 万魔殿炼狱篇零式 4 层 P8S 超详解攻略\_网络游戏热门视频](https://www.bilibili.com/video/BV1q3411Q7jg/)
+[【菓子】FF14 万魔殿炼狱篇零式 4 层 P8S 超详解攻略、_网络游戏热门视频](https://www.bilibili.com/video/BV1q3411Q7jg/)
 
 ```
-{"Name":"P8S门神果子苦茶子","MapID":884,"A":{"X":100.0,"Y":0.0,"Z":91.2,"ID":0,"Active":true},"B":{"X":108.8,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":108.8,"ID":2,"Active":true},"D":{"X":91.2,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":91.2,"Y":0.0,"Z":91.2,"ID":4,"Active":true},"Two":{"X":108.8,"Y":0.0,"Z":91.2,"ID":5,"Active":true},"Three":{"X":108.8,"Y":0.0,"Z":108.8,"ID":6,"Active":true},"Four":{"X":91.2,"Y":0.0,"Z":108.8,"ID":7,"Active":true}}
+{"Name":"P8S 门神果子苦茶子","MapID":884,"A":{"X":100.0,"Y":0.0,"Z":91.2,"ID":0,"Active":true},"B":{"X":108.8,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":108.8,"ID":2,"Active":true},"D":{"X":91.2,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":91.2,"Y":0.0,"Z":91.2,"ID":4,"Active":true},"Two":{"X":108.8,"Y":0.0,"Z":91.2,"ID":5,"Active":true},"Three":{"X":108.8,"Y":0.0,"Z":108.8,"ID":6,"Active":true},"Four":{"X":91.2,"Y":0.0,"Z":108.8,"ID":7,"Active":true}}
 ```
 
 ### 【P8S 本体菓子&利维亚桑天身（青瓜动态安利）】
@@ -199,21 +199,21 @@ tags: WaymarkPresent Waymark Gua Dalamud
 
 [本体【菓子】FF14 万魔殿炼狱篇零式 4 层 P8S 超详解攻略](https://www.bilibili.com/video/BV1q3411Q7jg/)
 
-[【FF14】零式万魔殿炼净之狱四层 P8S 本体先导简易攻略\_网络游戏热门视频](https://www.bilibili.com/video/BV1eW4y1N7Zg/)
+[【FF14】零式万魔殿炼净之狱四层 P8S 本体先导简易攻略、_网络游戏热门视频](https://www.bilibili.com/video/BV1eW4y1N7Zg/)
 [[攻略心得][P8S] 本体 冰火分摊脑死优化打法 178](https://nga.178.com/read.php?tid=33330987)
 
 ```
-{"Name":"P8S本体菓子利维亚桑天身","MapID":884,"A":{"X":81.3,"Y":0.0,"Z":81.3,"ID":0,"Active":true},"B":{"X":81.3,"Y":0.0,"Z":118.7,"ID":1,"Active":true},"C":{"X":118.7,"Y":0.0,"Z":118.7,"ID":2,"Active":true},"D":{"X":100.0,"Y":0.0,"Z":90.0,"ID":3,"Active":true},"One":{"X":98.7,"Y":0.0,"Z":100.0,"ID":4,"Active":true},"Two":{"X":108.7,"Y":0.0,"Z":90.0,"ID":5,"Active":true},"Three":{"X":101.3,"Y":0.0,"Z":100.0,"ID":6,"Active":true},"Four":{"X":91.3,"Y":0.0,"Z":90.00011,"ID":7,"Active":true}}
+{"Name":"P8S 本体菓子利维亚桑天身","MapID":884,"A":{"X":81.3,"Y":0.0,"Z":81.3,"ID":0,"Active":true},"B":{"X":81.3,"Y":0.0,"Z":118.7,"ID":1,"Active":true},"C":{"X":118.7,"Y":0.0,"Z":118.7,"ID":2,"Active":true},"D":{"X":100.0,"Y":0.0,"Z":90.0,"ID":3,"Active":true},"One":{"X":98.7,"Y":0.0,"Z":100.0,"ID":4,"Active":true},"Two":{"X":108.7,"Y":0.0,"Z":90.0,"ID":5,"Active":true},"Three":{"X":101.3,"Y":0.0,"Z":100.0,"ID":6,"Active":true},"Four":{"X":91.3,"Y":0.0,"Z":90.00011,"ID":7,"Active":true}}
 ```
 
 ### 【P8S 本体奶油咖啡（类似 NGA 脑死）】
 
 和 NGA 脑死思路一致，但是 1 和 4 点，奶油咖啡版应该站点中
 
-[【FF14】万魔殿零式 炼净之狱四层 P8S 本体 机制详解攻略*最终幻想 14*攻略](https://www.bilibili.com/video/BV1kN4y1w7ne/)
+[【FF14】万魔殿零式 炼净之狱四层 P8S 本体 机制详解攻略*最终幻想 14 *攻略](https://www.bilibili.com/video/BV1kN4y1w7ne/)
 
 ```
-{"Name":"P8S本体奶油咖啡（类似脑死）","MapID":884,"A":{"X":81.3,"Y":0.0,"Z":81.3,"ID":0,"Active":true},"B":{"X":81.3,"Y":0.0,"Z":118.7,"ID":1,"Active":true},"C":{"X":100.00003,"Y":0.0,"Z":90.0,"ID":2,"Active":true},"D":{"X":118.7,"Y":0.0,"Z":118.7,"ID":3,"Active":true},"One":{"X":92.5,"Y":0.0,"Z":90.0,"ID":4,"Active":true},"Two":{"X":110.0,"Y":0.0,"Z":81.3,"ID":5,"Active":true},"Three":{"X":118.7,"Y":0.0,"Z":91.3,"ID":6,"Active":true},"Four":{"X":107.5,"Y":0.0,"Z":90.0,"ID":7,"Active":true}}
+{"Name":"P8S 本体奶油咖啡（类似脑死）","MapID":884,"A":{"X":81.3,"Y":0.0,"Z":81.3,"ID":0,"Active":true},"B":{"X":81.3,"Y":0.0,"Z":118.7,"ID":1,"Active":true},"C":{"X":100.00003,"Y":0.0,"Z":90.0,"ID":2,"Active":true},"D":{"X":118.7,"Y":0.0,"Z":118.7,"ID":3,"Active":true},"One":{"X":92.5,"Y":0.0,"Z":90.0,"ID":4,"Active":true},"Two":{"X":110.0,"Y":0.0,"Z":81.3,"ID":5,"Active":true},"Three":{"X":118.7,"Y":0.0,"Z":91.3,"ID":6,"Active":true},"Four":{"X":107.5,"Y":0.0,"Z":90.0,"ID":7,"Active":true}}
 ```
 
 <span id="912">.</span>
@@ -222,10 +222,10 @@ tags: WaymarkPresent Waymark Gua Dalamud
 
 关于 1 和 2 点，不知道是不是需要很精准，总之距离八等分点向下偏移了 0.6，要改在说。
 
-[【FF14】6.2 零式攻略 P8S 本体 万魔殿炼净之狱 4 后半 苦茶子攻略\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV17d4y1v7Wx/)
+[【FF14】6.2 零式攻略 P8S 本体 万魔殿炼净之狱 4 后半 苦茶子攻略、_哔哩哔哩、_bilibili](https://www.bilibili.com/video/BV17d4y1v7Wx/)
 
 ```
-{"Name":"P8S本体苦茶子","MapID":884,"A":{"X":100.0,"Y":0.0,"Z":80.0,"ID":0,"Active":true},"B":{"X":120.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":120.0,"ID":2,"Active":true},"D":{"X":80.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":100.0,"Y":0.0,"Z":85.6,"ID":4,"Active":true},"Two":{"X":100.0,"Y":0.0,"Z":95.6,"ID":5,"Active":true},"Three":{"X":91.2,"Y":0.0,"Z":91.2,"ID":6,"Active":true},"Four":{"X":108.8,"Y":0.0,"Z":91.2,"ID":7,"Active":true}}
+{"Name":"P8S 本体苦茶子","MapID":884,"A":{"X":100.0,"Y":0.0,"Z":80.0,"ID":0,"Active":true},"B":{"X":120.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":120.0,"ID":2,"Active":true},"D":{"X":80.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":100.0,"Y":0.0,"Z":85.6,"ID":4,"Active":true},"Two":{"X":100.0,"Y":0.0,"Z":95.6,"ID":5,"Active":true},"Three":{"X":91.2,"Y":0.0,"Z":91.2,"ID":6,"Active":true},"Four":{"X":108.8,"Y":0.0,"Z":91.2,"ID":7,"Active":true}}
 
 ```
 
@@ -243,30 +243,30 @@ P9S-树歌：
 ~~12 是凭感觉手改坐标，1 点有可能突出地图，希望有用过的贴一下图反馈~~
 
 ```
-{"Name":"P9S 树歌12特殊 确定","MapID":937,"A":{"X":100.0,"Y":0.0,"Z":86.0,"ID":0,"Active":true},"B":{"X":114.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":114.0,"ID":2,"Active":true},"D":{"X":86.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":86.0,"Y":0.0,"Z":86.0,"ID":4,"Active":true},"Two":{"X":112.0,"Y":0.0,"Z":88.0,"ID":5,"Active":true},"Three":{"X":109.899,"Y":0.0,"Z":109.899,"ID":6,"Active":true},"Four":{"X":90.1,"Y":0.0,"Z":109.899,"ID":7,"Active":true}}
+{"Name":"P9S 树歌 12 特殊 确定","MapID":937,"A":{"X":100.0,"Y":0.0,"Z":86.0,"ID":0,"Active":true},"B":{"X":114.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":114.0,"ID":2,"Active":true},"D":{"X":86.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":86.0,"Y":0.0,"Z":86.0,"ID":4,"Active":true},"Two":{"X":112.0,"Y":0.0,"Z":88.0,"ID":5,"Active":true},"Three":{"X":109.899,"Y":0.0,"Z":109.899,"ID":6,"Active":true},"Four":{"X":90.1,"Y":0.0,"Z":109.899,"ID":7,"Active":true}}
 ```
 
 #### 【P9S】[spjp：【【FF14 6.4】天狱篇零式 P9S 超详解攻略-哔哩哔哩】](https://b23.tv/RUZcwZ2)
 
 ```
-{"Name":"P9S Game8国服适配spjp 标准八方 确定","MapID":937,"A":{"X":100.0,"Y":0.0,"Z":86.0,"ID":0,"Active":true},"B":{"X":114.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":114.0,"ID":2,"Active":true},"D":{"X":86.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":90.1,"Y":0.0,"Z":90.101,"ID":4,"Active":true},"Two":{"X":109.899,"Y":0.0,"Z":90.101,"ID":5,"Active":true},"Three":{"X":109.899,"Y":0.0,"Z":109.899,"ID":6,"Active":true},"Four":{"X":90.1,"Y":0.0,"Z":109.899,"ID":7,"Active":true}}
+{"Name":"P9S Game8 国服适配 spjp 标准八方 确定","MapID":937,"A":{"X":100.0,"Y":0.0,"Z":86.0,"ID":0,"Active":true},"B":{"X":114.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":114.0,"ID":2,"Active":true},"D":{"X":86.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":90.1,"Y":0.0,"Z":90.101,"ID":4,"Active":true},"Two":{"X":109.899,"Y":0.0,"Z":90.101,"ID":5,"Active":true},"Three":{"X":109.899,"Y":0.0,"Z":109.899,"ID":6,"Active":true},"Four":{"X":90.1,"Y":0.0,"Z":109.899,"ID":7,"Active":true}}
 ```
 
 #### 【P10S】[【【FF14 6.4】天狱篇零式 P10S 超详解攻略-哔哩哔哩】 ](https://b23.tv/W8y8r3t)
 
 ```
-{"Name":"P10S Game8国服适配 确定","MapID":939,"A":{"X":100.0,"Y":0.0,"Z":98.2,"ID":0,"Active":true},"B":{"X":92.009,"Y":0.0,"Z":111.204,"ID":6,"Active":true},"C":{"X":100.008,"Y":0.0,"Z":111.188,"ID":2,"Active":true},"D":{"X":108.013,"Y":0.0,"Z":111.159,"ID":5,"Active":true},"One":{"X":92.009,"Y":0.0,"Z":88.82,"ID":4,"Active":true},"Two":{"X":108.013,"Y":0.0,"Z":88.82,"ID":5,"Active":true},"Three":{"X":75.0,"Y":0.0,"Z":85.0,"ID":6,"Active":true},"Four":{"X":125.0,"Y":0.0,"Z":85.0,"ID":7,"Active":true}}
+{"Name":"P10S Game8 国服适配 确定","MapID":939,"A":{"X":100.0,"Y":0.0,"Z":98.2,"ID":0,"Active":true},"B":{"X":92.009,"Y":0.0,"Z":111.204,"ID":6,"Active":true},"C":{"X":100.008,"Y":0.0,"Z":111.188,"ID":2,"Active":true},"D":{"X":108.013,"Y":0.0,"Z":111.159,"ID":5,"Active":true},"One":{"X":92.009,"Y":0.0,"Z":88.82,"ID":4,"Active":true},"Two":{"X":108.013,"Y":0.0,"Z":88.82,"ID":5,"Active":true},"Three":{"X":75.0,"Y":0.0,"Z":85.0,"ID":6,"Active":true},"Four":{"X":125.0,"Y":0.0,"Z":85.0,"ID":7,"Active":true}}
 ```
 
 #### 【P11S】[【【FF14 6.4】天狱篇零式 P11S 超详解攻略-哔哩哔哩】 ](https://b23.tv/6BOLeAP)
 
 ```
-{"Name":"P11S Game8国服适配 确定","MapID":941,"A":{"X":100.0,"Y":0.0,"Z":87.1,"ID":0,"Active":true},"B":{"X":112.9,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":112.9,"ID":2,"Active":true},"D":{"X":87.1,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":90.8,"Y":0.0,"Z":90.8,"ID":4,"Active":true},"Two":{"X":109.2,"Y":0.0,"Z":90.8,"ID":5,"Active":true},"Three":{"X":109.2,"Y":0.0,"Z":109.2,"ID":6,"Active":true},"Four":{"X":90.8,"Y":0.0,"Z":109.2,"ID":7,"Active":true}}
+{"Name":"P11S Game8 国服适配 确定","MapID":941,"A":{"X":100.0,"Y":0.0,"Z":87.1,"ID":0,"Active":true},"B":{"X":112.9,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":112.9,"ID":2,"Active":true},"D":{"X":87.1,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":90.8,"Y":0.0,"Z":90.8,"ID":4,"Active":true},"Two":{"X":109.2,"Y":0.0,"Z":90.8,"ID":5,"Active":true},"Three":{"X":109.2,"Y":0.0,"Z":109.2,"ID":6,"Active":true},"Four":{"X":90.8,"Y":0.0,"Z":109.2,"ID":7,"Active":true}}
 ```
 
 #### P12S：
 
-[【菓子】FF14 万魔殿天狱篇零式 4 层 P12S 超详解攻略\_网络游戏热门视频](https://www.bilibili.com/video/BV1vF411S7oL/)
+[【菓子】FF14 万魔殿天狱篇零式 4 层 P12S 超详解攻略、_网络游戏热门视频](https://www.bilibili.com/video/BV1vF411S7oL/)
 目前仅有门神
 
 ```
@@ -283,7 +283,7 @@ P9S-树歌：
 ```
 
 **Game8 十六夜**
-[【FF14】6.4 攻略 P12S 本体 零式万魔殿 天狱篇 4*哔哩哔哩 bilibili*最终幻想 14\_攻略解说](https://www.bilibili.com/video/BV1Wk4y1A7QF/)
+[【FF14】6.4 攻略 P12S 本体 零式万魔殿 天狱篇 4 *哔哩哔哩 bilibili *最终幻想 14\_攻略解说](https://www.bilibili.com/video/BV1Wk4y1A7QF/)
 
 ```
 {"Name":"P12S 本体 G8 ","MapID":943,"A":{"X":97.0,"Y":0.0,"Z":92.0,"ID":0,"Active":true},"B":{"X":103.0,"Y":0.0,"Z":92.0,"ID":1,"Active":true},"C":{"X":103.0,"Y":0.0,"Z":97.0,"ID":2,"Active":true},"D":{"X":97.0,"Y":0.0,"Z":97.0,"ID":3,"Active":true},"One":{"X":99.0,"Y":0.0,"Z":80.5,"ID":4,"Active":true},"Two":{"X":119.5,"Y":0.0,"Z":90.0,"ID":5,"Active":true},"Three":{"X":106.5,"Y":0.0,"Z":101.0,"ID":6,"Active":true},"Four":{"X":93.5,"Y":0.0,"Z":101.0,"ID":7,"Active":true}}
@@ -329,7 +329,7 @@ nukemaru
 
 ### 极火天王 卢比坎特 树歌
 
-[【树歌】FF14 6.3 极火天王 卢比坎特歼殛战攻略 全流程配音讲解 极神 8 人本 讨伐*哔哩哔哩 bilibili*最终幻想 14\_攻略](https://www.bilibili.com/video/BV1Ms4y1A7ws/)
+[【树歌】FF14 6.3 极火天王 卢比坎特歼殛战攻略 全流程配音讲解 极神 8 人本 讨伐*哔哩哔哩 bilibili *最终幻想 14\_攻略](https://www.bilibili.com/video/BV1Ms4y1A7ws/)
 
 ```
 {"Name":"极火天王 卢比坎特 树歌","MapID":924,"A":{"X":100.0,"Y":0.0,"Z":86.0,"ID":0,"Active":true},"B":{"X":114.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":114.0,"ID":2,"Active":true},"D":{"X":86.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":93.0,"Y":0.0,"Z":93.0,"ID":7,"Active":true},"Two":{"X":107.0,"Y":0.0,"Z":93.0,"ID":4,"Active":true},"Three":{"X":107.0,"Y":0.0,"Z":107.0,"ID":5,"Active":true},"Four":{"X":93.0,"Y":0.0,"Z":107.0,"ID":6,"Active":true}}
@@ -344,7 +344,7 @@ nukemaru
 标点参考树歌，但 mm+w 只有中间 1234 点间距不同
 
 ```
-{"Name":"极高贝扎安全角树歌(不确定再看看)","MapID":950,"A":{"X":100.0,"Y":0.03,"Z":86.0,"ID":0,"Active":true},"B":{"X":114.0,"Y":0.03,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.03,"Z":114.0,"ID":2,"Active":true},"D":{"X":86.0,"Y":0.03,"Z":100.0,"ID":3,"Active":true},"One":{"X":103.9,"Y":0.03,"Z":96.1,"ID":4,"Active":true},"Two":{"X":103.9,"Y":0.03,"Z":103.9,"ID":5,"Active":true},"Three":{"X":96.1,"Y":0.03,"Z":103.9,"ID":6,"Active":true},"Four":{"X":96.1,"Y":0.03,"Z":96.1,"ID":7,"Active":true}}
+{"Name":"极高贝扎安全角树歌（不确定再看看）","MapID":950,"A":{"X":100.0,"Y":0.03,"Z":86.0,"ID":0,"Active":true},"B":{"X":114.0,"Y":0.03,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.03,"Z":114.0,"ID":2,"Active":true},"D":{"X":86.0,"Y":0.03,"Z":100.0,"ID":3,"Active":true},"One":{"X":103.9,"Y":0.03,"Z":96.1,"ID":4,"Active":true},"Two":{"X":103.9,"Y":0.03,"Z":103.9,"ID":5,"Active":true},"Three":{"X":96.1,"Y":0.03,"Z":103.9,"ID":6,"Active":true},"Four":{"X":96.1,"Y":0.03,"Z":96.1,"ID":7,"Active":true}}
 ```
 
 <span id="hgs">.</span>
@@ -371,7 +371,7 @@ nukemaru
 
 ### 幻鬼神
 
-[【FF14】90 级副本—鬼神祖尔宛幻巧战 常见灭点解说（超详细版）*哔哩哔哩 bilibili*最终幻想 14](https://www.bilibili.com/video/BV1Su411x73h/)
+[【FF14】90 级副本—鬼神祖尔宛幻巧战 常见灭点解说（超详细版）*哔哩哔哩 bilibili *最终幻想 14](https://www.bilibili.com/video/BV1Su411x73h/)
 
 ```
 {"Name":"幻鬼神候鸟","MapID":951,"A":{"X":0.0,"Y":0.0,"Z":-18.799,"ID":0,"Active":true},"B":{"X":18.5,"Y":0.0,"Z":3.255,"ID":1,"Active":true},"C":{"X":0.0,"Y":0.0,"Z":18.799,"ID":2,"Active":true},"D":{"X":-18.5,"Y":0.0,"Z":-3.255,"ID":3,"Active":true},"One":{"X":0.0,"Y":0.0,"Z":0.0,"ID":4,"Active":false},"Two":{"X":6.5,"Y":0.0,"Z":-17.6,"ID":5,"Active":true},"Three":{"X":0.0,"Y":0.0,"Z":0.0,"ID":6,"Active":false},"Four":{"X":-6.5,"Y":0.0,"Z":17.6,"ID":7,"Active":true}}
@@ -379,7 +379,7 @@ nukemaru
 
 ### 异闻下水道
 
-#### [【树歌】4 人高难 异闻希拉狄哈水道打法分享 FF14 boss 下水道 鼠鼠*最终幻想 14*攻略](https://www.bilibili.com/video/BV1qy4y1R7vk/)
+#### [【树歌】4 人高难 异闻希拉狄哈水道打法分享 FF14 boss 下水道 鼠鼠*最终幻想 14 *攻略](https://www.bilibili.com/video/BV1qy4y1R7vk/)
 
 老一
 
@@ -400,10 +400,10 @@ nukemaru
 ```
 
 树歌异闻老三 eis 呪具 3 专用
-参考[GAME8](https://game8.jp/ff14/489571#hm_3)
+参考 [GAME8](https://game8.jp/ff14/489571#hm_3)
 
 ```
-{"Name":"树歌异闻老三eis呪具3专用","MapID":878,"A":{"X":289.473,"Y":533.0,"Z":-123.748,"ID":0,"Active":true},"B":{"X":295.212,"Y":533.0,"Z":-113.823,"ID":1,"Active":true},"C":{"X":289.473,"Y":533.0,"Z":-86.283,"ID":2,"Active":true},"D":{"X":282.742,"Y":533.0,"Z":-96.222,"ID":3,"Active":true},"One":{"X":295.192,"Y":533.0,"Z":-123.832,"ID":4,"Active":false},"Two":{"X":295.324,"Y":533.0,"Z":-104.984,"ID":5,"Active":false},"Three":{"X":295.184,"Y":533.0,"Z":-86.201,"ID":6,"Active":false},"Four":{"X":295.212,"Y":533.0,"Z":-113.823,"ID":7,"Active":false}}
+{"Name":"树歌异闻老三 eis 呪具 3 专用","MapID":878,"A":{"X":289.473,"Y":533.0,"Z":-123.748,"ID":0,"Active":true},"B":{"X":295.212,"Y":533.0,"Z":-113.823,"ID":1,"Active":true},"C":{"X":289.473,"Y":533.0,"Z":-86.283,"ID":2,"Active":true},"D":{"X":282.742,"Y":533.0,"Z":-96.222,"ID":3,"Active":true},"One":{"X":295.192,"Y":533.0,"Z":-123.832,"ID":4,"Active":false},"Two":{"X":295.324,"Y":533.0,"Z":-104.984,"ID":5,"Active":false},"Three":{"X":295.184,"Y":533.0,"Z":-86.201,"ID":6,"Active":false},"Four":{"X":295.212,"Y":533.0,"Z":-113.823,"ID":7,"Active":false}}
 ```
 
 #### 国际服（很标准没啥可参考的）

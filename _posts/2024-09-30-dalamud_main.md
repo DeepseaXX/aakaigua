@@ -1,5 +1,5 @@
 ---
-title: 【Dalamud卫月】售后问答中心 非官方无底线 绿玩勿扰
+title: 【Dalamud 卫月】售后问答中心 非官方无底线 绿玩勿扰
 author: AA
 key: 2024-09-30-dalamud_main
 tags: Gua Dalamud
@@ -77,7 +77,7 @@ https://www.bilibili.com/read/cv16837112
 
 Google，DeepL，有道，QQ 截图翻译等等
 
-### 我在闲鱼小店买的挂/卫月，我!_(@&#^_(^&\*^!
+### 我在闲鱼小店买的挂/卫月，我！_(@&#^_(^&\*^!
 
 首先想尽一切办法**退款**。卫月本体及第三方插件 99.9%（不排除真的有作者自己写了拿去卖）都是免费使用的，你不知道只是因为有信息差，并不是你没交钱。
 
@@ -144,7 +144,7 @@ json 文件，和 txt 文件一样，都是文本文档，最简单的方法用*
 
 ### What is Unban?
 
-unban的方法不做介绍，这是检验你动手能力~~人脉~~的门槛！
+unban 的方法不做介绍，这是检验你动手能力~~人脉~~的门槛！
 
 Maybe you can google "NightmareXIV / UnbanPluginsCN".
 
@@ -158,7 +158,7 @@ Maybe you can google "NightmareXIV / UnbanPluginsCN".
 
 ### 他们让我改 Api 版本，怎么改阿？/远古挂爆炸了但是听说改 api 版本能用怎么办啊？
 
-首先找到你卫月本地位置，蓝月亮（红月亮结构差不多自己找找）的话，在” `Dalamud\XIVLauncherCN\Roaming\installedPlugins` “下，有你用正常方法安装的插件本体。如果是本地就 `devplugins` 。打开你需要修改的文件夹，内部找到“插件名.json”并打开（不会打开前面找找如何打开 json），找到
+首先找到你卫月本地位置，蓝月亮（红月亮结构差不多自己找找）的话，在” `Dalamud\XIVLauncherCN\Roaming\installedPlugins` “下，有你用正常方法安装的插件本体。如果是本地就 `devplugins` 。打开你需要修改的文件夹，内部找到“插件名。json”并打开（不会打开前面找找如何打开 json），找到
 " `DalamudApiLevel` ": ，将后面的数字+1。通常情况下是+1，但是有跨越版本的千年老挂的情况，那样就自己改成对应版本（比如现在游戏 6.3 对应 api8）。最后，挪到 `devplugin` （无论以前在哪），并走一遍加载本地插件的流程。
 
 ### 我要上月球
@@ -175,7 +175,7 @@ pu 门等，库非公开，导致无法浏览 history 的不适合此方法。
 
 直接用浏览器访问国际服的库，找到 DownloadLinkInstall
 
-比如我找到了如下这个链接（https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip），但是先不要下载，把这个链接修饰一下，raw改成tree，然后找history，找到国际服更新日期之前的最后一个版本，小概率能用，大概率爆炸，爆炸了就没有然后了。
+比如我找到了如下这个链接（https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip），但是先不要下载，把这个链接修饰一下，raw 改成 tree，然后找 history，找到国际服更新日期之前的最后一个版本，小概率能用，大概率爆炸，爆炸了就没有然后了。
 
 ### xx 什么时候更新啊
 
@@ -291,7 +291,7 @@ Karlin K 佬！
 
  `https://raw.githubusercontent.com/Karlin-Z/DalamudPlugins/Api4/pluginmaster.json`
 
-dr，atmosphere 门(还有一个国外用的来着)
+dr，atmosphere 门（还有一个国外用的来着）
 
 国内 `https://gh.atmoomen.top/DalamudPlugins/main/pluginmaster-cn.json`
 

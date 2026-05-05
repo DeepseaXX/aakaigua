@@ -1,5 +1,5 @@
 ---
-title: 【Something Need Doing】【多变迷宫】上盾 自奶 上Dot的土制触发器
+title: 【Something Need Doing】【多变迷宫】上盾 自奶 上 Dot 的土制触发器
 author: AA
 key: 2024-11-02-varient_content_action
 tags: Gua Dalamud SomethingNeedDoing Varient
@@ -29,8 +29,6 @@ Autoduty 中六根山的 12 号路线 估计需要 rsr 才能精准控制点灯�
 
 * 把下面代码粘贴进 SomethingNeedDoing
 * 开启 Lua 模式！！！！
-* 开启 Lua 模式！！！！
-* 开启 Lua 模式！！！！
 * 根据自己的多变技能槽位设置开头的参数 游戏界面上左边是 2 右边是 1
 * 根据需求修改其他参数
 * 点播放键开始检测，期间会一直检测
@@ -38,14 +36,10 @@ Autoduty 中六根山的 12 号路线 估计需要 rsr 才能精准控制点灯�
 
 ```lua
 --[[
-开LUA模式再开启！
-开LUA模式再开启！
-开LUA模式再开启！
-开LUA模式再开启！
-开LUA模式再开启！
+开 LUA 模式再开启！
 --]]
--- 你的多变技能槽位，0时不执行
--- 游戏界面上左边是2 右边是1
+-- 你的多变技能槽位，0 时不执行
+-- 游戏界面上左边是 2 右边是 1
 VarientShield = 0
 VarientDot = 2
 VarientHeal = 1
@@ -76,10 +70,10 @@ function UseVarientDot()
 end
 
 function CheckTargetDot()
-    -- 目标的dot
-    -- 目标类型为2，BattleNpc时检测，防炸
+    -- 目标的 dot
+    -- 目标类型为 2，BattleNpc 时检测，防炸
     if GetTargetObjectKind() == 2 then
-        -- 目标的dot状态检测
+        -- 目标的 dot 状态检测
         if not TargetHasStatus(3359) then
             UseVarientDot()
         end
@@ -94,11 +88,11 @@ function UseVarientShield()
 end
 
 function CheckMyShield()
-    -- 8秒盾，不需要就把if删掉注释掉
+    -- 8 秒盾，不需要就把 if 删掉注释掉
     if not HasStatusId(3405) then
         UseVarientShield()
     end
-    -- 60秒盾，不需要就把if删掉
+    -- 60 秒盾，不需要就把 if 删掉
     if not HasStatusId(3360) then
         UseVarientShield()
     end

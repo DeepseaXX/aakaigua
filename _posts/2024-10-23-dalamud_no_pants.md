@@ -1,5 +1,5 @@
 ---
-title: 【Dalamud卫月】【无底裤插件】谜语人介绍
+title: 【Dalamud 卫月】【无底裤插件】谜语人介绍
 author: AA
 key: 2024-10-23-dalamud_no_pants
 tags: Gua Dalamud
@@ -11,7 +11,7 @@ tags: Gua Dalamud
 
 <!--more-->
 
-基本大多数都已经被ban，unban的方法不做介绍，这是检验你动手能力~~人脉~~的门槛！
+基本大多数都已经被 ban，unban 的方法不做介绍，这是检验你动手能力~~人脉~~的门槛！
 
 ## XTP - 字面意思
 
@@ -28,7 +28,7 @@ Discord: `https://discord.com/channels/1108382171099566150/1108779292038529164`
 
 ## Daily Routines - 人畜无害小工具和底裤爆炸大工具合集
 
-由于已经被ban，所以我也敢写在这里了！
+由于已经被 ban，所以我也敢写在这里了！
 
 很强大，也会真的导致封号！
 

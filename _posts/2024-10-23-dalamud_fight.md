@@ -1,5 +1,5 @@
 ---
-title: 【Dalamud卫月】【战斗】专项推荐
+title: 【Dalamud 卫月】【战斗】专项推荐
 author: AA
 key: 2024-10-23-dalamud_start
 tags: Gua Dalamud Fighting
@@ -38,7 +38,7 @@ https://docs.qq.com/doc/DVWxNZWx1ZW5qVFZC
 
 ### Rotation Solver / Reborn
 
-你们用我不拦着，但是别指望我介绍这玩意。更别问我关于秋b的一切东西。
+你们用我不拦着，但是别指望我介绍这玩意。更别问我关于秋 b 的一切东西。
 
 非要用请用 Reborn。
 
@@ -46,7 +46,7 @@ https://docs.qq.com/doc/DVWxNZWx1ZW5qVFZC
 
 ### BossMod / BossMod Reborn - 小窗雷达画图
 
-B站懂哥嘴里，传说中的“吸附式瞬移！”
+B 站懂哥嘴里，传说中的“吸附式瞬移！”
 
 对于已经适配的副本 / Fate 有较强大的自动躲机制能力，对于未作适配的场景也可躲最基础的黄圈，对于黄圈点名后击退的机制表现得像弱智一样。会被两个黄圈挤到跳崖，也会在部分大范围非致死 AOE 时选择跳崖。
 
@@ -70,13 +70,13 @@ Discord： `https://discord.com/channels/1255182937540919396/1255350055049887774
 
 ### Kodakku Assist - 带画图功能的触发器
 
-卫月中的触发器，当你导入了现成的配置也可以实现机制画图功能，同时也可以配合指令或其他插件，完成自动执行指令，转化为TTS等操作。
+卫月中的触发器，当你导入了现成的配置也可以实现机制画图功能，同时也可以配合指令或其他插件，完成自动执行指令，转化为 TTS 等操作。
 
-老年作者的Script分享库，包含龙狮和M1S-M4S，7.0俩极神和绝伊甸。
+老年作者的 Script 分享库，包含龙狮和 M1S-M4S，7.0 俩极神和绝伊甸。
 
 [Karlin-Z/KodakkuAssistScript: A repository for storing scripts written for the Dalamud plugin KodakkuAssist.](https://github.com/Karlin-Z/KodakkuAssistScript)，
 
-编写日志和Wiki请见[Home · Karlin-Z/KodakkuAssistScript Wiki](https://github.com/Karlin-Z/KodakkuAssistScript/wiki)
+编写日志和 Wiki 请见 [Home · Karlin-Z/KodakkuAssistScript Wiki](https://github.com/Karlin-Z/KodakkuAssistScript/wiki)
 
 ### Splatoon / X - 使用 Imgui 绘制的拟真画图
 
@@ -84,7 +84,7 @@ Discord： `https://discord.com/channels/1255182937540919396/1255350055049887774
 
 ## vnavmesh - 自动寻路
 
-已被ban，unban的方法在此文中不做介绍，这是检验你动手能力~~人脉~~的门槛！
+已被 ban，unban 的方法在此文中不做介绍，这是检验你动手能力~~人脉~~的门槛！
 
 国服能用的版本
 
@@ -164,7 +164,7 @@ H4sIAAAAAAAACqWTQUvDMBiG/8r48BhrmrZLmpse9DIQ9OBBd6ilm8LWjrUrjDGYiA4V3Tx4mVMG3nYQ
 
 [按摩店之后](https://bbs.tggfl.com/topic/223/ff14%E5%8D%AB%E6%9C%88-waymark-present-%E6%A0%87%E7%82%B9%E5%90%88%E9%9B%86)
 
-[高难副本标点数据(从 6.5 开始持续更新) 178](https://nga.178.com/read.php?tid=39468696&fav=:FF3CFBCDB)
+[高难副本标点数据（从 6.5 开始持续更新） 178](https://nga.178.com/read.php?tid=39468696&fav=:FF3CFBCDB)
 https://nga.178.com/read.php?tid=39468696&fav=:FF3CFBCDB
 
 ### LazyLoot - 自动 roll 点

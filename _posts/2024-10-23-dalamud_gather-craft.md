@@ -1,5 +1,5 @@
 ---
-title: 【Dalamud卫月】【采集制作】专项推荐
+title: 【Dalamud 卫月】【采集制作】专项推荐
 author: AA
 key: 2024-10-23-dalamud_start
 tags: Gua Dalamud Gathering Crafting
@@ -32,9 +32,9 @@ tags: Gua Dalamud Gathering Crafting
 
 ## GatherBuddy Reborn - 带有自动化功能的采集列表
 
-已经被ban，unban的方法不做介绍，这是检验你动手能力~~人脉~~的门槛！
+已经被 ban，unban 的方法不做介绍，这是检验你动手能力~~人脉~~的门槛！
 
-在 GatherBuddy 的基础上增加了自动化功能。需要 Vnavmesh(同库有)，建议配合 Artisan 生成列表。
+在 GatherBuddy 的基础上增加了自动化功能。需要 Vnavmesh（同库有），建议配合 Artisan 生成列表。
 
 国内 `https://gh.atmoomen.top/DalamudPlugins/main/pluginmaster-cn.json`
 

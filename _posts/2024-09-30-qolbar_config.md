@@ -19,7 +19,7 @@ Github 版：[Qol bar 设置教程](/2024/09/30/qolbar_config.html)
 
 **欢迎各位补充修改**
 
-欢迎前往[讨论页面](https://github.com/DeepseaXX/aakaigua/discussions)参与讨论。
+欢迎前往 [讨论页面](https://github.com/DeepseaXX/aakaigua/discussions) 参与讨论。
 
 ## 已知问题
 
@@ -108,7 +108,7 @@ bar 管理、条件组、备份、设置、debug
 
 ### 名称设置
 
-:: 后接图标 id，##后接**鼠标悬停**时出现的文字，其他跟随在:: 后的字母有单独设置，见图。
+:: 后接图标 id，##后接**鼠标悬停**时出现的文字，其他跟随在：: 后的字母有单独设置，见图。
 
 ![](/assets/images/2024-09-30-qolbar_config_2024-09-30-14-41-59.png)
 
@@ -134,7 +134,7 @@ bar 管理、条件组、备份、设置、debug
 ### 指令设置
 
 分为三种类型，仅指令，目录和间隔符。如果设置为目录，既可以设置展开子菜单（推荐开启悬停时展开），单击时也可以执行指令。
-指令既支持游戏自带[文本指令](https://ff14.huijiwiki.com/wiki/%E6%96%87%E6%9C%AC%E6%8C%87%E4%BB%A4)，也支持卫月插件的指令。
+指令既支持游戏自带 [文本指令](https://ff14.huijiwiki.com/wiki/%E6%96%87%E6%9C%AC%E6%8C%87%E4%BB%A4)，也支持卫月插件的指令。
 
 ![](/assets/images/2024-09-30-qolbar_config_2024-09-30-14-42-47.png)
 
