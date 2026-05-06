@@ -58,10 +58,13 @@ Daily Routines 中搜索 `DLSS` 并开启
 
 ### boot 内文件拷贝方法
 
-NVIDIA APP 的检测 FF14 国际服的原理，是识别 FF14 目录下 boot 文件夹 （目录示例 `最终幻想 XIV\boot` ）是否包含 `ffxivboot.exe` 和 `ffxivupdater64.exe` 文件。
+NVIDIA APP 的检测 FF14 国际服的原理，是识别 FF14 目录下 boot 文件夹 （目录示例 `最终幻想 XIV\boot` ）是否包含 `ffxivboot.exe` 和 `ffxivupdater64.exe` 文件。并删除旧版启动器 FFXIVBoot.exe
 
-所以你在本地新建两个随便什么文件（比如空的记事本），然后重命名为上述两个 exe 就可以。
+所以步骤就是你**在本地新建两个随便什么文件（比如空的记事本），然后重命名为上述两个 exe** 就可以。
+
 （特别备注，如果你重命名完了两个文件，他们还是能直接用记事本打开，那你需要自己搜索 `文件扩展名怎么显示` ）
+
+（如果反复扫都扫不成国际服识别，试试把 `FFXIVRepair.exe` 改个别的名字）
 
 （特别鸣谢猫耳娘）
 
@@ -69,7 +72,7 @@ NVIDIA APP 的检测 FF14 国际服的原理，是识别 FF14 目录下 boot 文
 
 1. 进入路径 `%LocalAppData%\NVIDIA Corporation\NVIDIA App\NvBackend`
 2. 在文件夹中找到 `ApplicationStorage.json`，建议先备份一份，然后使用记事本或代码编辑器打开。
-3. 搜索目标字段在文件中搜索关键词 `final fantasy`，或 `ffxiv` 。（此时你可以看到，搜索定位附近有 `"DisplayName": "Final Fantasy XIV - DX9"`,          `"ShortName": "final_fantasy_xiv_kr"`的关键字，还有路径中有国服特色 `上海 XX 科技有限公司`字样）~~（别问为什么是 DX9，为什么是 kr，我也不知道）~~
+3. 搜索目标字段在文件中搜索关键词 `final fantasy`，或 `ffxiv` 。（此时你可以看到，搜索定位附近有 `"DisplayName": "Final Fantasy XIV - DX9"`,             `"ShortName": "final_fantasy_xiv_kr"`的关键字，还有路径中有国服特色 `上海 XX 科技有限公司`字样）~~（别问为什么是 DX9，为什么是 kr，我也不知道）~~
 4. 找到该项目后，将其下方的以下几项全部改为 false：
 
 * "Disable_FG_Override": false
