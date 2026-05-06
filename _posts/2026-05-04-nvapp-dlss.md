@@ -35,7 +35,7 @@ tags: Fate DLSS
 * 推荐高端显卡：Preset L（DLSS 4.5）。适合高分辨率 / Ultra Performance 模式。相比 K，性能更高，适合 4K 及以上分辨率或追求极限帧数的场景。
 * 推荐较弱显卡：Preset M（DLSS 4.5，仅限 Performance 模式）适合 50% 内分辨率的 Performance 模式。在高画质模式下表现不佳，因此弱显卡使用 M 时应避免 Quality / Balanced。
 
-※更新：无论哪个模型，`DLSS 优设 - 超分辨率模式`强制开启 DLAA 之后会出现非常强烈的全屏锯齿抖动，不建议开启，使用默认 `使用 3D 应用程序设置` 即可。
+※更新：无论哪个模型， `DLSS 优设 - 超分辨率模式` 强制开启 DLAA 之后会出现非常强烈的全屏锯齿抖动，不建议开启，使用默认 `使用 3D 应用程序设置` 即可。
 
 ### 那我要不是 N 卡呢？
 
@@ -46,13 +46,29 @@ tags: Fate DLSS
 
 ## 具体步骤
 
-有点计算机基础懒得当织布工人的，可以在理解了的基础上直接去看自动化脚本流程，如果看不太懂那个脚本在干嘛可以自己手动执行一遍理解流程。自动化只是省去了自己动手的过程，操作是一样的。
+以下几种方案，分别是让把国际服的识别特种搬家到国服客户端、修改配置 json，还有外挂黑科技……
 
-### 手动修改步骤
+### Daily Routines 插件功能
+
+Daily Routines 中搜索 `DLSS` 并开启
+
+![](assets/images/2026-05-04-nvapp-dlss_2026-05-06-19-14-26.png)
+
+（特别鸣谢猫耳娘）
+
+### boot 内文件拷贝方法
+
+NVIDIA APP 的检测 FF14 国际服的原理，是识别 FF14 目录下 boot 文件夹 （目录示例 `最终幻想 XIV\boot` ）是否包含 `ffxivboot.exe` 和 `ffxivupdater64.exe` 文件。
+
+所以如果你恰好有国际服客户端，把这两个文件拷贝过来就可以。
+
+（特别鸣谢猫耳娘）
+
+### 手动修改 json 步骤
 
 1. 进入路径 `%LocalAppData%\NVIDIA Corporation\NVIDIA App\NvBackend`
 2. 在文件夹中找到 `ApplicationStorage.json`，建议先备份一份，然后使用记事本或代码编辑器打开。
-3. 搜索目标字段在文件中搜索关键词 `final fantasy`，或 `ffxiv` 。（此时你可以看到，搜索定位附近有 `"DisplayName": "Final Fantasy XIV - DX9"`, `"ShortName": "final_fantasy_xiv_kr"`的关键字，还有路径中有国服特色 `上海 XX 科技有限公司`字样）~~（别问为什么是 DX9，为什么是 kr，我也不知道）~~
+3. 搜索目标字段在文件中搜索关键词 `final fantasy`，或 `ffxiv` 。（此时你可以看到，搜索定位附近有 `"DisplayName": "Final Fantasy XIV - DX9"`,         `"ShortName": "final_fantasy_xiv_kr"`的关键字，还有路径中有国服特色 `上海 XX 科技有限公司`字样）~~（别问为什么是 DX9，为什么是 kr，我也不知道）~~
 4. 找到该项目后，将其下方的以下几项全部改为 false：
 
 * "Disable_FG_Override": false
@@ -67,7 +83,9 @@ tags: Fate DLSS
 
 6. 然后就可以在 NVidia APP 的 `图形-程序设置-驱动程序设置`中，`DLSS 优设 - 模型预设`修改模型，`DLSS 优设 - 超分辨率模式`修改模式。
 
-### 自动备份并修改脚本
+### 自动备份并修改 json 脚本
+
+有点计算机基础懒得当织布工人的，可以在理解了的基础上直接去看自动化脚本流程，如果看不太懂那个脚本在干嘛可以自己手动执行一遍理解流程。自动化只是省去了自己动手的过程，操作是一样的。
 
 以下为流程自动化脚本，复制粘贴为 `任意名。ps1` 并保存为 UTF-8 with BOM 后运行生效。（具体怎么运行还有那些权限问题自己百度，实在不行带着这个去问 AI）
 
