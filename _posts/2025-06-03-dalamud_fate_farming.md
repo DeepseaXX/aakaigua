@@ -44,7 +44,9 @@ Daily Routine 完成在线认证后，中搜索“FATE”，找到“自动临�
 
 SND 版因为本体大重构，导致旧版无法使用，以下仅作参考。
 
-> 适用于国际服的原作者库：[pot0to/pot0to-SND-Scripts: My collection of SND scripts](https://github.com/pot0to/pot0to-SND-Scripts)
+> 适用于国际服的原作者库（已停止更新）：[pot0to/pot0to-SND-Scripts: My collection of SND scripts](https://github.com/pot0to/pot0to-SND-Scripts)
+
+> 国际服正在维护的库：[SND_Scripts/FATEs at main · baanderson40/SND_Scripts](https://github.com/baanderson40/SND_Scripts/tree/main/FATEs)
 
 > 适用于中国服务器的改编的小刺猬版：[RedAsteroid/Fate-Farming-CN: 适配中国服务器客户端的 Fate Farming](https://github.com/RedAsteroid/Fate-Farming-CN?tab=readme-ov-file)
 
