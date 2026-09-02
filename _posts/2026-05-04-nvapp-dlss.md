@@ -17,7 +17,13 @@ tags: Fate DLSS
 
 ### 相比 DLSS Mod
 
-这篇文章介绍的方法，相比使用 DLSS Mod 也就是是省事了一点，少了一点兼容性问题例如不能与卫月交互。但其实我最近用 DLSS Mod 已经很久没遇到过无法交互卫月的问题了，所以请自己判断选择。
+如果你已经在使用 DLSS Mod，而且目前运行一切正常，那么完全没必要为了这篇文章再重新折腾一遍。除了需要自行下载模型文件之外，DLSS Mod 最终实现的效果与本文介绍的方法基本一致。两者的主要区别在于：
+
+* 本文的方法配置不需要额外安装和维护 Mod。
+* 理论上兼容性问题会更少，例如曾经存在的与卫月（Dalamud）无法正常交互的问题。
+* 如果你已经在用 DLSS Mod，或者需要它提供的额外功能，继续使用 DLSS Mod 也完全没问题。
+
+不过就我个人的使用体验来看，我已经使用 DLSS Mod 很长时间了，最近基本没有再遇到过无法与卫月交互的情况。因此，这方面的差异现在已经没有以前那么明显。
 
 **DLSS Mod 相关阅读**
 
@@ -46,7 +52,7 @@ tags: Fate DLSS
 
 ## 具体步骤
 
-以下几种方案，分别是让把国际服的识别特种搬家到国服客户端、修改配置 json，还有外挂黑科技……
+以下几种方案，选一种实现即可，分别是：让把国际服的识别特种搬家到国服客户端、外挂、和修改配置 json。
 
 ### Daily Routines 插件功能
 
@@ -56,23 +62,46 @@ Daily Routines 中搜索 `DLSS` 并开启
 
 （特别鸣谢猫耳娘）
 
-### boot 内文件拷贝方法
+### boot 内文件拷贝方法（个人推荐）
 
-NVIDIA APP 的检测 FF14 国际服的原理，是识别 FF14 目录下 boot 文件夹 （目录示例 `最终幻想 XIV\boot` ）是否包含 `ffxivboot.exe` 和 `ffxivupdater64.exe` 文件。并删除旧版启动器 FFXIVBoot.exe
+NVIDIA App 判断 FF14 是否为国际服，主要是检查 FF14 游戏目录是否满足下面几个条件：
 
-所以步骤就是你**在本地新建两个随便什么文件（比如空的记事本），然后重命名为上述两个 exe** 就可以。
+a. `boot` 目录下存在 `ffxivboot.exe`
 
-（特别备注，如果你重命名完了两个文件，他们还是能直接用记事本打开，那你需要自己搜索 `文件扩展名怎么显示` ）
+   效果应为： `最终幻想 XIV\boot\ffxivboot.exe`
 
-（如果反复扫都扫不成国际服识别，试试把 `FFXIVRepair.exe` 改个别的名字）
+b. `boot` 目录下存在 `ffxivupdater64.exe`
 
-（特别鸣谢猫耳娘）
+   效果应为： `最终幻想 XIV\boot\ffxivupdater64.exe`
 
-### 手动修改 json 步骤
+c. 游戏根目录下不存在旧版启动器 `FFXIVBoot.exe`
+
+   如果有，可以先重命名备份为其他文件名。
+   （启动器可以从官网下载新版 `FFXIVBootV3.exe` 替代。）
+
+d. **（待查证）**游戏根目录下不存在 `FFXIVRepair.exe`
+
+   如果前面几项都处理好了，但 NVIDIA App 反复扫描还是识别不成国际服，可以尝试把这个文件也改个名字。
+
+具体操作：
+
+1. 前两项并不需要真正的程序文件。**直接在本地新建两个随便什么文件（比如空白记事本），然后分别把文件名改成 `ffxivboot.exe` 和 `ffxivupdater64.exe` ，再放进 `boot` 目录即可。**
+
+2. 后两项如果原本存在，可以先重命名或者备份到其他地方，不需要直接删除。
+
+3. 完成后重启 NVidia APP。
+
+> **特别注意：**如果你把文件改成 `.exe` 以后，双击发现还是能直接用记事本打开，那大概率是 Windows 隐藏了文件扩展名。实际文件名可能变成了 `ffxivboot.exe.txt` 。这种情况可以自行搜索一下「Windows 怎么显示文件扩展名」，打开扩展名显示后再重新修改。
+
+如果这些都做完了，NVIDIA App 反复扫描还是无法识别成国际服，可以再试试把根目录下的 `FFXIVRepair.exe` 重命名。
+
+（同样鸣谢猫耳娘）
+
+### 手动修改 json 步骤（繁琐，不建议）
 
 1. 进入路径 `%LocalAppData%\NVIDIA Corporation\NVIDIA App\NvBackend`
 2. 在文件夹中找到 `ApplicationStorage.json`，建议先备份一份，然后使用记事本或代码编辑器打开。
-3. 搜索目标字段在文件中搜索关键词 `final fantasy`，或 `ffxiv` 。（此时你可以看到，搜索定位附近有 `"DisplayName": "Final Fantasy XIV - DX9"`,             `"ShortName": "final_fantasy_xiv_kr"`的关键字，还有路径中有国服特色 `上海 XX 科技有限公司`字样）~~（别问为什么是 DX9，为什么是 kr，我也不知道）~~
+3. 搜索目标字段在文件中搜索关键词 `final fantasy`，或 `ffxiv` 。（此时你可以看到，搜索定位附近有 `"DisplayName": "Final Fantasy XIV - DX9"`,                       `"ShortName": "final_fantasy_xiv_kr"`的关键字，还有路径中有国服特色 `上海 XX 科技有限公司`字样）~~（别问为什么是 DX9，为什么是 kr，我也不知道）~~
 4. 找到该项目后，将其下方的以下几项全部改为 false：
 
 * "Disable_FG_Override": false
@@ -86,98 +115,6 @@ NVIDIA APP 的检测 FF14 国际服的原理，是识别 FF14 目录下 boot 文
 5. 保存并关闭文件。随后重启电脑。
 
 6. 然后就可以在 NVidia APP 的 `图形-程序设置-驱动程序设置`中，`DLSS 优设 - 模型预设`修改模型，`DLSS 优设 - 超分辨率模式`修改模式。
-
-### 自动备份并修改 json 脚本
-
-有点计算机基础懒得当织布工人的，可以在理解了的基础上直接去看自动化脚本流程，如果看不太懂那个脚本在干嘛可以自己手动执行一遍理解流程。自动化只是省去了自己动手的过程，操作是一样的。
-
-以下为流程自动化脚本，复制粘贴为 `任意名。ps1` 并保存为 UTF-8 with BOM 后运行生效。（具体怎么运行还有那些权限问题自己百度，实在不行带着这个去问 AI）
-
-```powershell
-<#
-.DESCRIPTION
-    FFXIV NVIDIA App 配置修正工具
-
-    【脚本行为】
-    1. 自动定位 NVIDIA App 的 ApplicationStorage.json。
-    2. 备份原文件为 ApplicationStorage.json_bak（位于同目录下）。
-    3. 解析 JSON，将 final_fantasy_xiv 对应的五项禁用开关设为 false。
-    4. 强制以 UTF-8 （无 BOM) 格式保存，解决中文路径或字符乱码问题。
-
-    【手动修复/回滚步骤】
-    5. 关闭所有 NVIDIA 相关程序（包括任务栏图标）。
-    6. 进入文件夹：%LOCALAPPDATA%\NVIDIA Corporation\NVIDIA App\NvBackend
-    7. 如果文件损坏：删除 ApplicationStorage.json。
-    8. 恢复备份：将 ApplicationStorage.json_bak 重命名为 ApplicationStorage.json。
-    9. 如果遇到无法运行脚本，请右键此脚本选择 "使用 PowerShell 运行"。
-#>
-
-# 强制设置控制台编码为 UTF-8
-[Console]::OutputEncoding = [System.Text.Encoding]::UTF8
-
-# 1. 路径定义
-$targetDir = "$env:LOCALAPPDATA\NVIDIA Corporation\NVIDIA App\NvBackend"
-$filePath = Join-Path $targetDir "ApplicationStorage.json"
-$backupPath = $filePath + "_bak"
-
-Write-Host "----------------------------------------------------" -ForegroundColor Gray
-Write-Host "[1/3] 检查配置文件。.." -ForegroundColor Cyan
-
-if (-not (Test-Path $filePath)) {
-    Write-Host "[错误] 找不到文件，请确保已安装 NVIDIA App。 " -ForegroundColor Red
-    pause; exit
-}
-
-try {
-    # 2. 备份文件
-    Write-Host "[2/3] 创建备份：$backupPath" -ForegroundColor Cyan
-    Copy-Item -Path $filePath -Destination $backupPath -Force
-
-    # 3. 解析与修改
-    Write-Host "[3/3] 正在处理 JSON 数据。.." -ForegroundColor Cyan
-
-    # 使用 .NET 方式读取，确保编码不出错
-    $utf8NoBOM = New-Object System.Text.UTF8Encoding($false)
-    $rawText = [System.IO.File]::ReadAllText($filePath, $utf8NoBOM)
-    $jsonContent = $rawText | ConvertFrom-Json
-
-    $found = $false
-    foreach ($item in $jsonContent.Applications) {
-        if ($item.Application.ShortName -eq "final_fantasy_xiv_kr") {
-            # 修改参数
-            $item.Application.Disable_FG_Override = $false
-            $item.Application.Disable_RR_Override = $false
-            $item.Application.Disable_SR_Override = $false
-            $item.Application.Disable_RR_Model_Override = $false
-            $item.Application.Disable_SR_Model_Override = $false
-            $found = $true
-            break
-        }
-    }
-
-    if ($found) {
-        # 转换为压缩后的 JSON （无空格换行，匹配原版格式）
-        $newJson = $jsonContent | ConvertTo-Json -Compress -Depth 100
-
-        # 强制以 UTF-8 无 BOM 格式写回
-        [System.IO.File]::WriteAllText($filePath, $newJson, $utf8NoBOM)
-
-        Write-Host "`n[√] 修改成功！已解锁 FFXIV 功能限制。 " -ForegroundColor Green
-    }
-    else {
-        Write-Host "`n[!] 未找到 FFXIV 配置块，请确认游戏已被 NVIDIA App 识别。 " -ForegroundColor Yellow
-    }
-
-}
-catch {
-    Write-Host "`n[×] 发生错误：$($_.Exception.Message)" -ForegroundColor Red
-    Write-Host "请确保以管理员身份运行，并彻底退出 NVIDIA App。 " -ForegroundColor Gray
-}
-
-Write-Host "`n 操作完成，按任意键退出。.." -ForegroundColor Gray
-$null = $Host.UI.RawUI.ReadKey("NoEcho,IncludeKeyDown")
-
-```
 
 ## 判断正在使用的模型方法
 
