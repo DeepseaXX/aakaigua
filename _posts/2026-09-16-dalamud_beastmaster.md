@@ -17,18 +17,24 @@ Pawprint
 作者：YouShu
 
 卫月在线库：
- `https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Pluginmaster.json`
+
+```
+https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Pluginmaster.json
+```
 
 邀请链接
 Discord：
- `https://discord.gg/DFhmp7zzrz`
+[https://discord.gg/DFhmp7zzrz](https://discord.gg/DFhmp7zzrz)
 
 赞助链接
-爱发电： `https://www.ifdian.net/a/youshu`
+爱发电：
 
-```
+[https://www.ifdian.net/a/youshu](https://www.ifdian.net/a/youshu)
 
 ## BMR 斗兽特供版
 
 BMR 斗兽特供版
- `https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/pluginmaster.json`
+
+```
+https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/pluginmaster.json
+```
