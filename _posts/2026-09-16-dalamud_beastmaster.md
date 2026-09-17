@@ -38,3 +38,9 @@ BMR 斗兽特供版
 ```
 https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/pluginmaster.json
 ```
+
+## 会用到的 PromeRotation 战斗模块
+
+请自行去 DC 探索。
+
+[https://discord.gg/XqyxjNE94Z](https://discord.gg/XqyxjNE94Z)
