@@ -6,7 +6,7 @@ tags: 驯兽师 Pawprint 自动化
 ---
 由于我吃到一半就不吃了，暂时仅进行信息整理。
 
-# Pawprint 自动化驯兽师野怪与斗兽奇弈
+## Pawprint 自动化驯兽师野怪与斗兽奇弈
 
 Pawprint
 
@@ -22,7 +22,7 @@ Pawprint
 https://raw.githubusercontent.com/a16239438/DalamudPlugins/main/pluginmaster.json
 ```
 
-# Omni 相关邀请链接
+## Omni 相关邀请链接
 
 ```
 https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Pluginmaster.json
@@ -44,12 +44,18 @@ BMR 斗兽特供版
 https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/pluginmaster.json
 ```
 
-## 会用到的 PromeRotation 战斗模块
+## PromeRotation 战斗模块
 
 裤链以及详细介绍请自行去 DC 探索。
 
 [https://discord.gg/XqyxjNE94Z](https://discord.gg/XqyxjNE94Z)
 
-```
-https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Pluginmaster.json
-```
+### 轻度科研之斗兽奇奕自动化所需的最基础条件
+
+* Pawprint “插件配置”界面上，必需插件已安装
+* Pawprint “斗兽奇奕”的“入场编组”前三与 ACR 起手一致
+* Pawprint “斗兽奇奕”的“其他设置”的开怪方式
+* Pawprint “斗兽奇奕”已导入预设或自行手动设置
+* PromeRotation 指定 ACR 已安装，如果需要调用 ACR 起手则需要设置起手
+* 特定盘需要导入特定预设（已知高一）
+* 使用斗兽定制版 BMR
