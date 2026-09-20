@@ -19,10 +19,15 @@ Pawprint
 卫月在线库：
 
 ```
+https://raw.githubusercontent.com/a16239438/DalamudPlugins/main/pluginmaster.json
+```
+
+# Omni 相关邀请链接
+
+```
 https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Pluginmaster.json
 ```
 
-邀请链接
 Discord：
 [https://discord.gg/DFhmp7zzrz](https://discord.gg/DFhmp7zzrz)
 
@@ -41,6 +46,10 @@ https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/pluginmaster.jso
 
 ## 会用到的 PromeRotation 战斗模块
 
-请自行去 DC 探索。
+裤链以及详细介绍请自行去 DC 探索。
 
 [https://discord.gg/XqyxjNE94Z](https://discord.gg/XqyxjNE94Z)
+
+```
+https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Pluginmaster.json
+```
