@@ -14,8 +14,6 @@ Pawprint
 
 各层预设请进入下方 Discord 之后搜索“预设”。
 
-作者：YouShu
-
 卫月在线库：
 
 ```
@@ -52,10 +50,15 @@ https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/pluginmaster.jso
 
 ### 轻度科研之斗兽奇奕自动化所需的最基础条件
 
+#### 共通
+
 * Pawprint “插件配置”界面上，必需插件已安装
-* Pawprint “斗兽奇奕”的“入场编组”前三与 ACR 起手一致
-* Pawprint “斗兽奇奕”的“其他设置”的开怪方式
 * Pawprint “斗兽奇奕”已导入预设或自行手动设置
-* PromeRotation 指定 ACR 已安装，如果需要调用 ACR 起手则需要设置起手
 * 特定盘需要导入特定预设（已知高一）
 * 使用斗兽定制版 BMR
+
+#### 不使用预设时
+
+* Pawprint “斗兽奇奕”的“入场编组”前三与 ACR 起手一致
+* Pawprint “斗兽奇奕”的“其他设置”的开怪方式
+* PromeRotation 指定 ACR 已安装，如果需要调用 ACR 起手则需要设置起手
